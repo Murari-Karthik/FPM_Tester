@@ -1,0 +1,687 @@
+Height=67.75
+Neck=36.2
+Knee=37.3
+Ankle=21.9
+Biceps=32
+Forearm=27.4
+Wrist=17.1
+binaryClass=P
+Height=72.25
+Neck=38.5
+Hip=98.7
+Ankle=23.4
+Biceps=30.5
+Forearm=28.9
+Wrist=18.2
+Neck=34
+Hip=99.2
+Knee=38.9
+Ankle=24
+Biceps=28.8
+Forearm=25.2
+binaryClass=N
+Age=26
+Neck=37.4
+Chest=101.8
+Ankle=22.8
+Biceps=32.4
+Forearm=29.4
+Age=24
+Weight=184.25
+Height=71.25
+Biceps=32.2
+Forearm=27.7
+Wrist=17.7
+Forearm=30.6
+Wrist=18.8
+Height=69.75
+Neck=36.4
+Thigh=58.4
+Knee=38.3
+Ankle=22.9
+Forearm=27.8
+Age=25
+Height=72.5
+Neck=37.8
+Hip=97.1
+Thigh=60
+Knee=39.4
+Ankle=23.2
+Forearm=29
+Height=74
+Neck=38.1
+Ankle=23.8
+Biceps=35.9
+Forearm=31.1
+Height=73.5
+Neck=42.1
+Hip=104.1
+Ankle=25
+Biceps=35.6
+Forearm=30
+Wrist=19.2
+Height=74.5
+Ankle=25.2
+Wrist=18.5
+Age=27
+Neck=39.4
+Knee=39.2
+Biceps=37.2
+Forearm=30.2
+Wrist=19
+Age=32
+Height=69.5
+Thigh=63.4
+Ankle=21.5
+Biceps=32.5
+Forearm=28.6
+Age=35
+Knee=39
+Ankle=23.1
+Forearm=30.5
+Chest=99.1
+Knee=38.7
+Ankle=21.7
+Forearm=26.4
+Wrist=16.9
+Age=34
+Wrist=17.3
+Knee=40
+Age=28
+Neck=38
+Neck=40
+Abdomen=100.5
+Knee=40.6
+Forearm=30.1
+Height=68
+Neck=39.1
+Thigh=63.5
+Knee=38
+Ankle=22.1
+Forearm=30.3
+Wrist=18.4
+Ankle=24.6
+Wrist=19.9
+Age=31
+Height=68.25
+Ankle=22.2
+Biceps=27.9
+Height=70
+Neck=35.5
+Forearm=26.7
+Forearm=28
+Wrist=17.6
+Height=71.5
+Thigh=55
+Ankle=22.5
+Biceps=29.9
+Forearm=28.2
+Height=67.5
+Ankle=21.4
+Chest=97.4
+Abdomen=88.7
+Thigh=57.5
+Ankle=21
+Biceps=29.2
+Forearm=26.6
+Wrist=17
+Chest=93.5
+Forearm=27.9
+Wrist=17.2
+Height=69
+Thigh=58.9
+Ankle=22.6
+Biceps=30.1
+Height=73.75
+Neck=38.7
+Neck=37.3
+Hip=100.6
+Thigh=58.5
+Knee=38.8
+Wrist=17.9
+Weight=168
+Ankle=24.5
+Age=41
+Wrist=18.7
+Wrist=19.7
+Age=49
+Forearm=29.8
+Age=40
+Biceps=35.1
+Age=50
+Chest=105.6
+Ankle=24.7
+Wrist=19.4
+Age=46
+Height=67
+Hip=102.5
+Wrist=18.3
+Height=68.75
+Knee=39.6
+Age=44
+Forearm=28.7
+Wrist=17.4
+Age=48
+Knee=40.9
+Knee=40.2
+Ankle=23
+Age=39
+Age=43
+Height=73.25
+Knee=38.2
+Biceps=29.7
+Forearm=26.2
+Knee=37.5
+Forearm=26.8
+Height=68.5
+Age=47
+Height=66.75
+Hip=98.3
+Ankle=22.4
+Age=51
+Neck=36.5
+Biceps=29.6
+Knee=37.6
+Age=42
+Forearm=27.5
+Age=54
+Height=72
+Hip=99.6
+Ankle=22
+Wrist=18.9
+Age=58
+Thigh=62.1
+Forearm=28.3
+Age=62
+Knee=39.8
+Ankle=22.7
+Height=70.75
+Thigh=59.1
+Biceps=31.6
+Forearm=28.8
+Age=61
+Weight=179.75
+Height=65.75
+Thigh=60.6
+Knee=37.7
+Forearm=29.6
+Age=56
+Neck=35.6
+Height=70.25
+Ankle=23.6
+Biceps=32.7
+Forearm=29.9
+Wrist=19.1
+Age=57
+Age=55
+Knee=36.1
+Thigh=54.3
+Height=69.25
+Neck=37.5
+Hip=96.1
+Thigh=56
+Biceps=32.6
+Wrist=18.1
+Neck=36.3
+Ankle=21.6
+Knee=38.6
+Forearm=27.3
+Wrist=18.6
+Forearm=25.7
+Thigh=55.5
+Biceps=29.4
+Biceps=30.2
+Forearm=29.2
+Ankle=21.8
+Biceps=30.8
+Hip=99.3
+Biceps=31.4
+Chest=102.7
+Abdomen=98.6
+Knee=39.3
+Forearm=27.2
+Age=64
+Height=67.25
+Hip=96.9
+Height=72.75
+Knee=36.5
+Ankle=24.1
+Age=72
+Hip=96.2
+Knee=36.6
+Forearm=26.3
+Wrist=18
+Weight=167
+Chest=98.9
+Abdomen=89.7
+Thigh=54.7
+Knee=37.8
+Neck=37.7
+Ankle=23.3
+Forearm=28.4
+Knee=38.4
+Forearm=29.3
+Height=73
+Neck=37.2
+Abdomen=95.6
+Height=70.5
+Height=71.75
+Biceps=32.9
+Ankle=22.3
+Neck=37
+Thigh=59.3
+Weight=172.75
+Biceps=31
+Neck=40.7
+Chest=104
+Ankle=24.8
+Thigh=61.2
+Ankle=23.5
+Forearm=28.5
+Age=52
+Height=74.25
+Forearm=30.7
+Chest=97.8
+Knee=36.8
+Biceps=32.1
+Biceps=33.5
+Knee=38.1
+Neck=35.3
+Biceps=31.8
+Thigh=56.8
+Biceps=33.4
+Wrist=19.5
+Neck=38.3
+Thigh=57.1
+Biceps=34.4
+Hip=94
+Thigh=60.7
+Hip=97.8
+Knee=36.9
+Abdomen=90.3
+Knee=38.5
+Biceps=34
+Biceps=30.9
+Chest=92.9
+Hip=95.6
+Biceps=31.7
+Forearm=29.7
+Neck=35.2
+Knee=35.7
+Neck=37.9
+Biceps=31.3
+Thigh=63.3
+Age=37
+Age=65
+Age=23 binaryClass=P
+Height=67.75 binaryClass=P
+Hip=94.5 binaryClass=P
+Knee=37.3 binaryClass=P
+Ankle=21.9 binaryClass=P
+Ankle=21.9 binaryClass=N
+Forearm=27.4 binaryClass=P
+Wrist=17.1 binaryClass=P
+Wrist=17.1 binaryClass=N
+binaryClass=P Height=72.25
+binaryClass=P Neck=38.5
+binaryClass=P Ankle=23.4
+binaryClass=P Biceps=30.5
+binaryClass=P Forearm=28.9
+binaryClass=P Wrist=18.2
+binaryClass=P Biceps=28.8
+binaryClass=P Age=26
+binaryClass=P Neck=37.4
+binaryClass=P Ankle=22.8
+binaryClass=P Biceps=32.4
+binaryClass=P Forearm=29.4
+binaryClass=P Height=71.25
+binaryClass=P Wrist=17.7
+binaryClass=P Wrist=18.8
+binaryClass=P Height=69.75
+binaryClass=P Neck=36.4
+binaryClass=P Thigh=58.4
+binaryClass=P Ankle=22.9
+binaryClass=P Forearm=27.8
+binaryClass=P Age=25
+binaryClass=P Height=72.5
+binaryClass=P Neck=37.8
+binaryClass=P Chest=99.6
+binaryClass=P Thigh=60
+binaryClass=P Knee=39.4
+binaryClass=P Ankle=23.2
+binaryClass=P Neck=38.1
+binaryClass=P Ankle=23.8
+binaryClass=P Height=73.5
+binaryClass=P Ankle=25
+binaryClass=P Forearm=30
+binaryClass=P Wrist=19.2
+binaryClass=P Height=74.5
+binaryClass=P Abdomen=83.6
+binaryClass=P Knee=39.7
+binaryClass=P Wrist=18.5
+binaryClass=P Age=27
+binaryClass=P Neck=39.4
+binaryClass=P Knee=39.2
+binaryClass=P Wrist=19
+binaryClass=P Height=69.5
+binaryClass=P Ankle=21.5
+binaryClass=P Biceps=32.5
+binaryClass=P Age=35
+binaryClass=P Knee=39
+binaryClass=P Knee=38.7
+binaryClass=P Wrist=16.9
+binaryClass=P Wrist=17.3
+binaryClass=P Age=28
+binaryClass=P Neck=38
+binaryClass=P Density=1.061
+binaryClass=P Age=33
+binaryClass=P Knee=40.6
+binaryClass=P Forearm=30.1
+binaryClass=P Height=68
+binaryClass=P Ankle=22.1
+binaryClass=P Wrist=18.4
+binaryClass=P Height=68.25
+binaryClass=P Thigh=57.4
+binaryClass=P Ankle=22.2
+binaryClass=P Biceps=27.9
+binaryClass=P Forearm=25.9
+binaryClass=P Neck=35.5
+binaryClass=P Knee=36.2
+binaryClass=P Biceps=29.8
+binaryClass=P Forearm=28
+binaryClass=P Wrist=17.6
+binaryClass=P Height=71.5
+binaryClass=P Neck=35.7
+binaryClass=P Ankle=22.5
+binaryClass=P Forearm=28.2
+binaryClass=P Height=67.5
+binaryClass=P Ankle=21.4
+binaryClass=P Forearm=27
+binaryClass=P Wrist=16.5
+binaryClass=P Abdomen=88.7
+binaryClass=P Thigh=57.5
+binaryClass=P Ankle=21
+binaryClass=P Wrist=17.2
+binaryClass=P Height=69
+binaryClass=P Thigh=58.9
+binaryClass=P Ankle=22.6
+binaryClass=P Biceps=30.1
+binaryClass=P Neck=38.7
+binaryClass=P Thigh=58.5
+binaryClass=P Knee=38.8
+binaryClass=P Wrist=17.9
+binaryClass=P Thigh=57.3
+binaryClass=P Wrist=18.7
+binaryClass=P Age=49
+binaryClass=P Age=40
+binaryClass=P Age=50
+binaryClass=P Age=46
+binaryClass=P Height=67
+binaryClass=P Wrist=18.3
+binaryClass=P Height=68.75
+binaryClass=P Age=44
+binaryClass=P Wrist=17.4
+binaryClass=P Age=39
+binaryClass=P Age=43
+binaryClass=P Knee=38.2
+binaryClass=P Forearm=26.2
+binaryClass=P Knee=37.5
+binaryClass=P Height=68.5
+binaryClass=P Chest=92.3
+binaryClass=P Age=47
+binaryClass=P Height=66.75
+binaryClass=P Hip=98.3
+binaryClass=P Ankle=22.4
+binaryClass=P Chest=89.2
+binaryClass=P Age=51
+binaryClass=P Neck=36.5
+binaryClass=P Knee=37.6
+binaryClass=P Age=42
+binaryClass=P Forearm=27.5
+binaryClass=P Age=54
+binaryClass=P Ankle=22
+binaryClass=P Forearm=28.3
+binaryClass=P Ankle=22.7
+binaryClass=P Height=70.75
+binaryClass=P Biceps=31.6
+binaryClass=P Height=65.75
+binaryClass=P Thigh=60.6
+binaryClass=P Forearm=29.6
+binaryClass=P Age=56
+binaryClass=P Age=57
+binaryClass=P Age=55
+binaryClass=P Neck=36.9
+binaryClass=P Thigh=54.3
+binaryClass=P Height=69.25
+binaryClass=P Neck=37.5
+binaryClass=P Knee=37.4
+binaryClass=P Neck=36.3
+binaryClass=P Forearm=27.3
+binaryClass=P Wrist=18.6
+binaryClass=P Abdomen=82.8
+binaryClass=P Biceps=30.3
+binaryClass=P Forearm=25.7
+binaryClass=P Neck=36
+binaryClass=P Forearm=29.2
+binaryClass=P Ankle=21.8
+binaryClass=P Biceps=31.4
+binaryClass=P Height=67.25
+binaryClass=P Knee=36.5
+binaryClass=P Forearm=26.3
+binaryClass=P Wrist=18
+binaryClass=P Chest=98.9
+binaryClass=P Thigh=54.7
+binaryClass=P Neck=37.7
+binaryClass=P Forearm=28.4
+binaryClass=P Forearm=29.3
+binaryClass=P Height=73
+binaryClass=P Height=70.5
+binaryClass=P Wrist=17.8
+binaryClass=P Biceps=32.9
+binaryClass=P Biceps=30.6
+binaryClass=P Chest=94
+binaryClass=P Weight=152.25
+binaryClass=P Neck=35.2
+binaryClass=P Neck=37.9
+binaryClass=P Knee=34.8
+binaryClass=P Neck=37.6
+Height=72.25 binaryClass=N
+Neck=38.5 binaryClass=N
+Neck=38.5 Wrist=19.1
+Ankle=23.4 binaryClass=N
+Wrist=18.2 binaryClass=N
+Density=1.0414 binaryClass=N
+Ankle=24 binaryClass=N
+binaryClass=N Age=26
+binaryClass=N Neck=37.4
+binaryClass=N Age=24
+binaryClass=N Height=71.25
+binaryClass=N Abdomen=100
+binaryClass=N Forearm=27.7
+binaryClass=N Wrist=17.7
+binaryClass=N Thigh=66
+binaryClass=N Wrist=18.8
+binaryClass=N Height=69.75
+binaryClass=N Knee=38.3
+binaryClass=N Ankle=22.9
+binaryClass=N Neck=37.8
+binaryClass=N Knee=39.4
+binaryClass=N Ankle=23.2
+binaryClass=N Forearm=29
+binaryClass=N Height=73.5
+binaryClass=N Neck=42.1
+binaryClass=N Wrist=19.2
+binaryClass=N Height=74.5
+binaryClass=N Ankle=25.2
+binaryClass=N Wrist=18.5
+binaryClass=N Wrist=19
+binaryClass=N Height=69.5
+binaryClass=N Neck=38.4
+binaryClass=N Chest=102
+binaryClass=N Ankle=21.5
+binaryClass=N Forearm=28.6
+binaryClass=N Ankle=23.7
+binaryClass=N Forearm=31.6
+binaryClass=N Density=1.0484
+binaryClass=N Age=35
+binaryClass=N Neck=40.5
+binaryClass=N Knee=39
+binaryClass=N Ankle=23.1
+binaryClass=N Biceps=36.1
+binaryClass=N Forearm=30.5
+binaryClass=N Chest=99.1
+binaryClass=N Height=71
+binaryClass=N Neck=38.9
+binaryClass=N Thigh=64.8
+binaryClass=N Knee=40.8
+binaryClass=N Wrist=17.3
+binaryClass=N Chest=107.6
+binaryClass=N Knee=40
+binaryClass=N Neck=38
+binaryClass=N Abdomen=100.5
+binaryClass=N Thigh=63.5
+binaryClass=N Knee=38
+binaryClass=N Forearm=30.3
+binaryClass=N Wrist=18.4
+binaryClass=N Ankle=24.6
+binaryClass=N Height=68.25
+binaryClass=N Height=70
+binaryClass=N Wrist=17.6
+binaryClass=N Height=71.5
+binaryClass=N Ankle=22.5
+binaryClass=N Height=67.5
+binaryClass=N Ankle=21
+binaryClass=N Wrist=17
+binaryClass=N Thigh=58.9
+binaryClass=N Ankle=22.6
+binaryClass=N Hip=100.6
+binaryClass=N Age=41
+binaryClass=N Wrist=18.7
+binaryClass=N Age=49
+binaryClass=N Forearm=29.8
+binaryClass=N Age=40
+binaryClass=N Age=50
+binaryClass=N Ankle=24.7
+binaryClass=N Wrist=19.4
+binaryClass=N Age=46
+binaryClass=N Neck=40.2
+binaryClass=N Knee=41.1
+binaryClass=N Forearm=31
+binaryClass=N Wrist=18.3
+binaryClass=N Knee=39.6
+binaryClass=N Biceps=36.4
+binaryClass=N Age=44
+binaryClass=N Biceps=33.6
+binaryClass=N Forearm=28.7
+binaryClass=N Wrist=17.4
+binaryClass=N Age=48
+binaryClass=N Ankle=23
+binaryClass=N Age=43
+binaryClass=N Height=73.25
+binaryClass=N Height=68.5
+binaryClass=N Age=47
+binaryClass=N Hip=98.3
+binaryClass=N Ankle=22.4
+binaryClass=N Neck=36.5
+binaryClass=N Age=42
+binaryClass=N Age=54
+binaryClass=N Height=72
+binaryClass=N Ankle=22
+binaryClass=N Density=1.0524
+binaryClass=N Abdomen=99.8
+binaryClass=N Age=62
+binaryClass=N Knee=39.8
+binaryClass=N Ankle=22.7
+binaryClass=N Height=70.75
+binaryClass=N Thigh=59.1
+binaryClass=N Forearm=28.8
+binaryClass=N Height=65.75
+binaryClass=N Forearm=29.6
+binaryClass=N Forearm=31.8
+binaryClass=N Height=70.25
+binaryClass=N Ankle=23.6
+binaryClass=N Wrist=19.1
+binaryClass=N Chest=105.3
+binaryClass=N Biceps=35.3
+binaryClass=N Neck=40.9
+binaryClass=N Biceps=34.8
+binaryClass=N Knee=36.1
+binaryClass=N Height=69.25
+binaryClass=N Thigh=56
+binaryClass=N Wrist=18.1
+binaryClass=N Forearm=27.3
+binaryClass=N Wrist=18.6
+binaryClass=N Forearm=29.2
+binaryClass=N Abdomen=95
+binaryClass=N Ankle=21.8
+binaryClass=N Hip=99.3
+binaryClass=N Chest=102.7
+binaryClass=N Age=67
+binaryClass=N Forearm=27.2
+binaryClass=N Height=72.75
+binaryClass=N Weight=170.75
+binaryClass=N Ankle=24.1
+binaryClass=N Biceps=31.2
+binaryClass=N Age=72
+binaryClass=N Hip=96.2
+binaryClass=N Wrist=18
+binaryClass=N Abdomen=89.7
+binaryClass=N Forearm=28.4
+binaryClass=N Knee=38.4
+binaryClass=N Height=70.5
+binaryClass=N Height=71.75
+binaryClass=N Biceps=33.3
+binaryClass=N Ankle=22.3
+binaryClass=N Hip=101.7
+binaryClass=N Thigh=59.3
+binaryClass=N Biceps=31
+binaryClass=N Hip=101.6
+binaryClass=N Ankle=24.8
+binaryClass=N Age=52
+binaryClass=N Height=74.25
+binaryClass=N Forearm=30.7
+binaryClass=N Chest=97.8
+binaryClass=N Biceps=32.1
+binaryClass=N Abdomen=105
+binaryClass=N Thigh=63.7
+binaryClass=N Knee=38.1
+binaryClass=N Wrist=19.8
+binaryClass=N Abdomen=92.4
+binaryClass=N Weight=177.25
+binaryClass=N Wrist=19.5
+binaryClass=N Neck=38.3
+binaryClass=N Forearm=29.5
+binaryClass=N Neck=40.8
+binaryClass=N Forearm=31.2
+binaryClass=N Thigh=57.1
+binaryClass=N Weight=168.25
+binaryClass=N Forearm=30.4
+binaryClass=N Biceps=33.7
+binaryClass=N Knee=41.3
+binaryClass=N Knee=40.3
+Forearm=27.7 Wrist=17.7
+Wrist=17.7 Age=35
+Wrist=17.7 Ankle=22.5
+Wrist=18.8 Height=72.5
+Wrist=18.8 Height=69.5
+Ankle=22.9 Wrist=18.5
+Wrist=18.5 Ankle=22.5
+Wrist=18.5 Age=42
+Height=69.5 Age=35
+Age=35 Chest=99.1
+Wrist=17.3 Age=40
+Height=67.5 Wrist=18.3
+Abdomen=88.7 Thigh=57.5
+Thigh=58.9 Age=44
+Ankle=22.6 Age=40
+Wrist=17.4 Age=43
+Ankle=22 Height=69.25
+Knee=37.3 binaryClass=P Wrist=18.2
+binaryClass=P Height=72.25 Wrist=18.2
+binaryClass=P Wrist=16.9 Knee=34.8
+binaryClass=P Wrist=17.6 Ankle=22.6
+binaryClass=P Height=67.5 Forearm=27
+binaryClass=P Biceps=30.6 Chest=94
+binaryClass=N Height=69.75 Neck=40.9
+binaryClass=N Hip=98.3 Knee=38.4
+binaryClass=N Ankle=22 Height=69.25

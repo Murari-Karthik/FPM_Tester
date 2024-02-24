@@ -1,0 +1,96 @@
+housing_median_age=41 #SUP: 296
+binaryClass=P #SUP: 8914
+housing_median_age=21 #SUP: 446
+housing_median_age=52 #SUP: 1273
+housing_median_age=42 #SUP: 368
+housing_median_age=40 #SUP: 304
+housing_median_age=43 #SUP: 353
+housing_median_age=46 #SUP: 245
+housing_median_age=26 #SUP: 619
+housing_median_age=20 #SUP: 465
+housing_median_age=17 #SUP: 698
+housing_median_age=36 #SUP: 862
+housing_median_age=19 #SUP: 502
+housing_median_age=23 #SUP: 448
+housing_median_age=38 #SUP: 394
+housing_median_age=35 #SUP: 824
+housing_median_age=10 #SUP: 264
+median_house_value=500001 #SUP: 965
+housing_median_age=16 #SUP: 771
+housing_median_age=27 #SUP: 488
+housing_median_age=39 #SUP: 369
+housing_median_age=31 #SUP: 458
+housing_median_age=29 #SUP: 461
+housing_median_age=22 #SUP: 399
+housing_median_age=37 #SUP: 537
+housing_median_age=28 #SUP: 471
+housing_median_age=34 #SUP: 689
+housing_median_age=32 #SUP: 565
+housing_median_age=44 #SUP: 356
+housing_median_age=30 #SUP: 476
+housing_median_age=18 #SUP: 570
+housing_median_age=45 #SUP: 294
+housing_median_age=33 #SUP: 615
+housing_median_age=24 #SUP: 478
+housing_median_age=15 #SUP: 512
+housing_median_age=14 #SUP: 412
+housing_median_age=13 #SUP: 302
+housing_median_age=25 #SUP: 566
+housing_median_age=5 #SUP: 244
+housing_median_age=12 #SUP: 238
+housing_median_age=11 #SUP: 254
+binaryClass=N #SUP: 11726
+binaryClass=P housing_median_age=21  #SUP: 207
+binaryClass=P housing_median_age=52  #SUP: 871
+binaryClass=P housing_median_age=26  #SUP: 256
+binaryClass=P housing_median_age=20  #SUP: 245
+binaryClass=P housing_median_age=17  #SUP: 351
+binaryClass=P housing_median_age=36  #SUP: 268
+binaryClass=P housing_median_age=19  #SUP: 234
+binaryClass=P housing_median_age=35  #SUP: 262
+binaryClass=P median_house_value=500001  #SUP: 370
+binaryClass=P housing_median_age=16  #SUP: 373
+binaryClass=P housing_median_age=27  #SUP: 219
+binaryClass=P housing_median_age=34  #SUP: 217
+binaryClass=P housing_median_age=32  #SUP: 216
+binaryClass=P housing_median_age=18  #SUP: 276
+binaryClass=P housing_median_age=33  #SUP: 225
+binaryClass=P housing_median_age=15  #SUP: 252
+binaryClass=P housing_median_age=25  #SUP: 231
+housing_median_age=21 binaryClass=N  #SUP: 239
+housing_median_age=52 binaryClass=N  #SUP: 402
+housing_median_age=42 binaryClass=N  #SUP: 237
+housing_median_age=26 binaryClass=N  #SUP: 363
+housing_median_age=20 binaryClass=N  #SUP: 220
+housing_median_age=17 binaryClass=N  #SUP: 347
+housing_median_age=36 binaryClass=N  #SUP: 594
+housing_median_age=19 binaryClass=N  #SUP: 268
+housing_median_age=23 binaryClass=N  #SUP: 244
+housing_median_age=38 binaryClass=N  #SUP: 258
+housing_median_age=35 binaryClass=N  #SUP: 562
+median_house_value=500001 binaryClass=N  #SUP: 595
+housing_median_age=16 binaryClass=N  #SUP: 398
+housing_median_age=27 binaryClass=N  #SUP: 269
+housing_median_age=39 binaryClass=N  #SUP: 222
+housing_median_age=31 binaryClass=N  #SUP: 285
+housing_median_age=29 binaryClass=N  #SUP: 279
+housing_median_age=22 binaryClass=N  #SUP: 211
+housing_median_age=37 binaryClass=N  #SUP: 340
+housing_median_age=28 binaryClass=N  #SUP: 272
+housing_median_age=34 binaryClass=N  #SUP: 472
+housing_median_age=32 binaryClass=N  #SUP: 349
+housing_median_age=44 binaryClass=N  #SUP: 230
+housing_median_age=30 binaryClass=N  #SUP: 284
+housing_median_age=18 binaryClass=N  #SUP: 294
+housing_median_age=33 binaryClass=N  #SUP: 390
+housing_median_age=24 binaryClass=N  #SUP: 287
+housing_median_age=15 binaryClass=N  #SUP: 260
+housing_median_age=14 binaryClass=N  #SUP: 209
+housing_median_age=25 binaryClass=N  #SUP: 335
+binaryClass=N latitude=34.09  #SUP: 212
+binaryClass=N latitude=34.08  #SUP: 234
+binaryClass=N latitude=34.07  #SUP: 231
+binaryClass=N latitude=34.06  #SUP: 244
+binaryClass=N latitude=34.05  #SUP: 236
+binaryClass=N latitude=34.04  #SUP: 221
+binaryClass=N latitude=34.02  #SUP: 208

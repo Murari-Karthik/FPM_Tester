@@ -1,0 +1,521 @@
+fathers_occupation=Professional_Self-Employed 
+sons_occupation=Professional_Self-Employed 
+family_structure=intact 
+race=white 
+sons_occupation=Professional-Salaried 
+sons_occupation=Manager 
+sons_occupation=Salesman-Nonretail 
+sons_occupation=Proprietor 
+sons_occupation=Clerk 
+sons_occupation=Salesman-Retail 
+sons_occupation=Craftsman-Manufacturing 
+sons_occupation=Craftsmen-Other 
+sons_occupation=Craftsman-Construction 
+sons_occupation=Service_Worker 
+sons_occupation=Operative-Nonmanufacturing 
+sons_occupation=Operative-Manufacturing 
+sons_occupation=Laborer-Manufacturing 
+sons_occupation=Laborer-Nonmanufacturing 
+sons_occupation=Farmer/Farm_Manager 
+counts_for_sons_first_occupation=1.4 
+counts_for_sons_current_occupation=1.4 
+sons_occupation=Farm_Laborer 
+counts_for_sons_first_occupation=0 
+counts_for_sons_current_occupation=0.8 
+fathers_occupation=Professional-Salaried 
+fathers_occupation=Manager 
+fathers_occupation=Salesman-Nonretail 
+counts_for_sons_current_occupation=3.3 
+fathers_occupation=Proprietor 
+fathers_occupation=Clerk 
+fathers_occupation=Salesman-Retail 
+counts_for_sons_current_occupation=2 
+counts_for_sons_current_occupation=0 
+fathers_occupation=Craftsman-Manufacturing 
+fathers_occupation=Craftsmen-Other 
+fathers_occupation=Craftsman-Construction 
+fathers_occupation=Service_Worker 
+counts_for_sons_current_occupation=1 
+fathers_occupation=Operative-Nonmanufacturing 
+fathers_occupation=Operative-Manufacturing 
+counts_for_sons_first_occupation=0.5 
+fathers_occupation=Laborer-Manufacturing 
+counts_for_sons_first_occupation=0.7 
+fathers_occupation=Laborer-Nonmanufacturing 
+fathers_occupation=Farmer/Farm_Manager 
+fathers_occupation=Farm_Laborer 
+counts_for_sons_first_occupation=1.5 
+family_structure=nonintact 
+counts_for_sons_first_occupation=0.9 
+counts_for_sons_current_occupation=1.7 
+counts_for_sons_current_occupation=1.1 
+counts_for_sons_current_occupation=0.9 
+counts_for_sons_current_occupation=1.6 
+counts_for_sons_first_occupation=0.8 
+counts_for_sons_current_occupation=0.6 
+counts_for_sons_first_occupation=0.6 
+counts_for_sons_current_occupation=0.7 
+counts_for_sons_first_occupation=0.4 
+counts_for_sons_current_occupation=0.5 
+counts_for_sons_first_occupation=1 
+race=black 
+fathers_occupation=Professional_Self-Employed family_structure=intact  
+fathers_occupation=Professional_Self-Employed race=white  
+fathers_occupation=Professional_Self-Employed counts_for_sons_first_occupation=0  
+fathers_occupation=Professional_Self-Employed counts_for_sons_current_occupation=0  
+fathers_occupation=Professional_Self-Employed family_structure=nonintact  
+fathers_occupation=Professional_Self-Employed race=black  
+sons_occupation=Professional_Self-Employed family_structure=intact  
+sons_occupation=Professional_Self-Employed race=white  
+sons_occupation=Professional_Self-Employed counts_for_sons_first_occupation=0  
+sons_occupation=Professional_Self-Employed counts_for_sons_current_occupation=0  
+sons_occupation=Professional_Self-Employed family_structure=nonintact  
+sons_occupation=Professional_Self-Employed race=black  
+family_structure=intact race=white  
+family_structure=intact sons_occupation=Professional-Salaried  
+family_structure=intact sons_occupation=Manager  
+family_structure=intact sons_occupation=Salesman-Nonretail  
+family_structure=intact sons_occupation=Proprietor  
+family_structure=intact sons_occupation=Clerk  
+family_structure=intact sons_occupation=Salesman-Retail  
+family_structure=intact sons_occupation=Craftsman-Manufacturing  
+family_structure=intact sons_occupation=Craftsmen-Other  
+family_structure=intact sons_occupation=Craftsman-Construction  
+family_structure=intact sons_occupation=Service_Worker  
+family_structure=intact sons_occupation=Operative-Nonmanufacturing  
+family_structure=intact sons_occupation=Operative-Manufacturing  
+family_structure=intact sons_occupation=Laborer-Manufacturing  
+family_structure=intact sons_occupation=Laborer-Nonmanufacturing  
+family_structure=intact sons_occupation=Farmer/Farm_Manager  
+family_structure=intact sons_occupation=Farm_Laborer  
+family_structure=intact counts_for_sons_first_occupation=0  
+family_structure=intact fathers_occupation=Professional-Salaried  
+family_structure=intact fathers_occupation=Manager  
+family_structure=intact fathers_occupation=Salesman-Nonretail  
+family_structure=intact fathers_occupation=Proprietor  
+family_structure=intact fathers_occupation=Clerk  
+family_structure=intact fathers_occupation=Salesman-Retail  
+family_structure=intact counts_for_sons_current_occupation=0  
+family_structure=intact fathers_occupation=Craftsman-Manufacturing  
+family_structure=intact fathers_occupation=Craftsmen-Other  
+family_structure=intact fathers_occupation=Craftsman-Construction  
+family_structure=intact fathers_occupation=Service_Worker  
+family_structure=intact fathers_occupation=Operative-Nonmanufacturing  
+family_structure=intact fathers_occupation=Operative-Manufacturing  
+family_structure=intact counts_for_sons_first_occupation=0.5  
+family_structure=intact fathers_occupation=Laborer-Manufacturing  
+family_structure=intact fathers_occupation=Laborer-Nonmanufacturing  
+family_structure=intact fathers_occupation=Farmer/Farm_Manager  
+family_structure=intact fathers_occupation=Farm_Laborer  
+family_structure=intact race=black  
+race=white sons_occupation=Professional-Salaried  
+race=white sons_occupation=Manager  
+race=white sons_occupation=Salesman-Nonretail  
+race=white sons_occupation=Proprietor  
+race=white sons_occupation=Clerk  
+race=white sons_occupation=Salesman-Retail  
+race=white sons_occupation=Craftsman-Manufacturing  
+race=white sons_occupation=Craftsmen-Other  
+race=white sons_occupation=Craftsman-Construction  
+race=white sons_occupation=Service_Worker  
+race=white sons_occupation=Operative-Nonmanufacturing  
+race=white sons_occupation=Operative-Manufacturing  
+race=white sons_occupation=Laborer-Manufacturing  
+race=white sons_occupation=Laborer-Nonmanufacturing  
+race=white sons_occupation=Farmer/Farm_Manager  
+race=white sons_occupation=Farm_Laborer  
+race=white counts_for_sons_first_occupation=0  
+race=white counts_for_sons_current_occupation=0.8  
+race=white fathers_occupation=Professional-Salaried  
+race=white fathers_occupation=Manager  
+race=white fathers_occupation=Salesman-Nonretail  
+race=white fathers_occupation=Proprietor  
+race=white fathers_occupation=Clerk  
+race=white fathers_occupation=Salesman-Retail  
+race=white counts_for_sons_current_occupation=0  
+race=white fathers_occupation=Craftsman-Manufacturing  
+race=white fathers_occupation=Craftsmen-Other  
+race=white fathers_occupation=Craftsman-Construction  
+race=white fathers_occupation=Service_Worker  
+race=white fathers_occupation=Operative-Nonmanufacturing  
+race=white fathers_occupation=Operative-Manufacturing  
+race=white fathers_occupation=Laborer-Manufacturing  
+race=white fathers_occupation=Laborer-Nonmanufacturing  
+race=white fathers_occupation=Farmer/Farm_Manager  
+race=white fathers_occupation=Farm_Laborer  
+race=white family_structure=nonintact  
+sons_occupation=Professional-Salaried family_structure=nonintact  
+sons_occupation=Professional-Salaried race=black  
+sons_occupation=Manager counts_for_sons_first_occupation=0  
+sons_occupation=Manager family_structure=nonintact  
+sons_occupation=Manager race=black  
+sons_occupation=Salesman-Nonretail counts_for_sons_first_occupation=0  
+sons_occupation=Salesman-Nonretail family_structure=nonintact  
+sons_occupation=Salesman-Nonretail race=black  
+sons_occupation=Proprietor counts_for_sons_first_occupation=0  
+sons_occupation=Proprietor counts_for_sons_current_occupation=0  
+sons_occupation=Proprietor family_structure=nonintact  
+sons_occupation=Proprietor race=black  
+sons_occupation=Clerk family_structure=nonintact  
+sons_occupation=Clerk race=black  
+sons_occupation=Salesman-Retail counts_for_sons_current_occupation=0  
+sons_occupation=Salesman-Retail family_structure=nonintact  
+sons_occupation=Salesman-Retail race=black  
+sons_occupation=Craftsman-Manufacturing counts_for_sons_first_occupation=0  
+sons_occupation=Craftsman-Manufacturing family_structure=nonintact  
+sons_occupation=Craftsman-Manufacturing race=black  
+sons_occupation=Craftsmen-Other counts_for_sons_first_occupation=0  
+sons_occupation=Craftsmen-Other family_structure=nonintact  
+sons_occupation=Craftsmen-Other race=black  
+sons_occupation=Craftsman-Construction family_structure=nonintact  
+sons_occupation=Craftsman-Construction race=black  
+sons_occupation=Service_Worker family_structure=nonintact  
+sons_occupation=Service_Worker race=black  
+sons_occupation=Operative-Nonmanufacturing family_structure=nonintact  
+sons_occupation=Operative-Nonmanufacturing race=black  
+sons_occupation=Operative-Manufacturing family_structure=nonintact  
+sons_occupation=Operative-Manufacturing race=black  
+sons_occupation=Laborer-Manufacturing counts_for_sons_current_occupation=0  
+sons_occupation=Laborer-Manufacturing family_structure=nonintact  
+sons_occupation=Laborer-Manufacturing race=black  
+sons_occupation=Laborer-Nonmanufacturing family_structure=nonintact  
+sons_occupation=Laborer-Nonmanufacturing race=black  
+sons_occupation=Farmer/Farm_Manager counts_for_sons_first_occupation=0  
+sons_occupation=Farmer/Farm_Manager counts_for_sons_current_occupation=0  
+sons_occupation=Farmer/Farm_Manager family_structure=nonintact  
+sons_occupation=Farmer/Farm_Manager race=black  
+sons_occupation=Farm_Laborer counts_for_sons_first_occupation=0  
+sons_occupation=Farm_Laborer counts_for_sons_current_occupation=0  
+sons_occupation=Farm_Laborer family_structure=nonintact  
+sons_occupation=Farm_Laborer race=black  
+counts_for_sons_first_occupation=0 fathers_occupation=Manager  
+counts_for_sons_first_occupation=0 fathers_occupation=Salesman-Nonretail  
+counts_for_sons_first_occupation=0 fathers_occupation=Clerk  
+counts_for_sons_first_occupation=0 fathers_occupation=Salesman-Retail  
+counts_for_sons_first_occupation=0 counts_for_sons_current_occupation=0  
+counts_for_sons_first_occupation=0 fathers_occupation=Craftsman-Manufacturing  
+counts_for_sons_first_occupation=0 fathers_occupation=Craftsman-Construction  
+counts_for_sons_first_occupation=0 fathers_occupation=Laborer-Manufacturing  
+counts_for_sons_first_occupation=0 fathers_occupation=Laborer-Nonmanufacturing  
+counts_for_sons_first_occupation=0 fathers_occupation=Farm_Laborer  
+counts_for_sons_first_occupation=0 family_structure=nonintact  
+counts_for_sons_first_occupation=0 race=black  
+counts_for_sons_current_occupation=0.8 family_structure=nonintact  
+fathers_occupation=Professional-Salaried counts_for_sons_current_occupation=0  
+fathers_occupation=Professional-Salaried family_structure=nonintact  
+fathers_occupation=Professional-Salaried race=black  
+fathers_occupation=Manager counts_for_sons_current_occupation=0  
+fathers_occupation=Manager family_structure=nonintact  
+fathers_occupation=Manager race=black  
+fathers_occupation=Salesman-Nonretail counts_for_sons_current_occupation=0  
+fathers_occupation=Salesman-Nonretail family_structure=nonintact  
+fathers_occupation=Salesman-Nonretail race=black  
+fathers_occupation=Proprietor family_structure=nonintact  
+fathers_occupation=Proprietor race=black  
+fathers_occupation=Clerk family_structure=nonintact  
+fathers_occupation=Clerk race=black  
+fathers_occupation=Salesman-Retail counts_for_sons_current_occupation=0  
+fathers_occupation=Salesman-Retail family_structure=nonintact  
+fathers_occupation=Salesman-Retail race=black  
+counts_for_sons_current_occupation=0 fathers_occupation=Craftsman-Manufacturing  
+counts_for_sons_current_occupation=0 fathers_occupation=Craftsman-Construction  
+counts_for_sons_current_occupation=0 fathers_occupation=Laborer-Manufacturing  
+counts_for_sons_current_occupation=0 family_structure=nonintact  
+counts_for_sons_current_occupation=0 race=black  
+fathers_occupation=Craftsman-Manufacturing family_structure=nonintact  
+fathers_occupation=Craftsman-Manufacturing race=black  
+fathers_occupation=Craftsmen-Other family_structure=nonintact  
+fathers_occupation=Craftsmen-Other race=black  
+fathers_occupation=Craftsman-Construction family_structure=nonintact  
+fathers_occupation=Craftsman-Construction race=black  
+fathers_occupation=Service_Worker family_structure=nonintact  
+fathers_occupation=Service_Worker race=black  
+counts_for_sons_current_occupation=1 race=black  
+fathers_occupation=Operative-Nonmanufacturing family_structure=nonintact  
+fathers_occupation=Operative-Nonmanufacturing race=black  
+fathers_occupation=Operative-Manufacturing family_structure=nonintact  
+fathers_occupation=Operative-Manufacturing race=black  
+counts_for_sons_first_occupation=0.5 race=black  
+fathers_occupation=Laborer-Manufacturing family_structure=nonintact  
+fathers_occupation=Laborer-Manufacturing race=black  
+counts_for_sons_first_occupation=0.7 family_structure=nonintact  
+fathers_occupation=Laborer-Nonmanufacturing family_structure=nonintact  
+fathers_occupation=Laborer-Nonmanufacturing race=black  
+fathers_occupation=Farmer/Farm_Manager family_structure=nonintact  
+fathers_occupation=Farmer/Farm_Manager race=black  
+fathers_occupation=Farm_Laborer family_structure=nonintact  
+fathers_occupation=Farm_Laborer race=black  
+family_structure=nonintact counts_for_sons_first_occupation=0.9  
+family_structure=nonintact counts_for_sons_current_occupation=0.9  
+family_structure=nonintact counts_for_sons_first_occupation=0.8  
+family_structure=nonintact counts_for_sons_current_occupation=0.6  
+family_structure=nonintact counts_for_sons_first_occupation=0.6  
+family_structure=nonintact counts_for_sons_current_occupation=0.7  
+family_structure=nonintact counts_for_sons_first_occupation=0.4  
+family_structure=nonintact counts_for_sons_current_occupation=0.5  
+family_structure=nonintact race=black  
+counts_for_sons_first_occupation=0.9 race=black  
+counts_for_sons_current_occupation=1.1 race=black  
+counts_for_sons_current_occupation=0.9 race=black  
+counts_for_sons_current_occupation=0.6 race=black  
+counts_for_sons_first_occupation=0.6 race=black  
+counts_for_sons_first_occupation=0.4 race=black  
+counts_for_sons_current_occupation=0.5 race=black  
+counts_for_sons_first_occupation=1 race=black  
+race=black counts_for_sons_current_occupation=0.4  
+fathers_occupation=Professional_Self-Employed family_structure=intact race=white  
+fathers_occupation=Professional_Self-Employed family_structure=intact race=black  
+fathers_occupation=Professional_Self-Employed race=white family_structure=nonintact  
+fathers_occupation=Professional_Self-Employed counts_for_sons_first_occupation=0 counts_for_sons_current_occupation=0  
+fathers_occupation=Professional_Self-Employed counts_for_sons_first_occupation=0 family_structure=nonintact  
+fathers_occupation=Professional_Self-Employed counts_for_sons_first_occupation=0 race=black  
+fathers_occupation=Professional_Self-Employed counts_for_sons_current_occupation=0 family_structure=nonintact  
+fathers_occupation=Professional_Self-Employed counts_for_sons_current_occupation=0 race=black  
+fathers_occupation=Professional_Self-Employed family_structure=nonintact race=black  
+sons_occupation=Professional_Self-Employed family_structure=intact race=white  
+sons_occupation=Professional_Self-Employed family_structure=intact race=black  
+sons_occupation=Professional_Self-Employed race=white family_structure=nonintact  
+sons_occupation=Professional_Self-Employed counts_for_sons_first_occupation=0 counts_for_sons_current_occupation=0  
+sons_occupation=Professional_Self-Employed counts_for_sons_first_occupation=0 family_structure=nonintact  
+sons_occupation=Professional_Self-Employed counts_for_sons_first_occupation=0 race=black  
+sons_occupation=Professional_Self-Employed counts_for_sons_current_occupation=0 family_structure=nonintact  
+sons_occupation=Professional_Self-Employed counts_for_sons_current_occupation=0 race=black  
+sons_occupation=Professional_Self-Employed family_structure=nonintact race=black  
+family_structure=intact race=white sons_occupation=Professional-Salaried  
+family_structure=intact race=white sons_occupation=Manager  
+family_structure=intact race=white sons_occupation=Salesman-Nonretail  
+family_structure=intact race=white sons_occupation=Proprietor  
+family_structure=intact race=white sons_occupation=Clerk  
+family_structure=intact race=white sons_occupation=Salesman-Retail  
+family_structure=intact race=white sons_occupation=Craftsman-Manufacturing  
+family_structure=intact race=white sons_occupation=Craftsmen-Other  
+family_structure=intact race=white sons_occupation=Craftsman-Construction  
+family_structure=intact race=white sons_occupation=Service_Worker  
+family_structure=intact race=white sons_occupation=Operative-Nonmanufacturing  
+family_structure=intact race=white sons_occupation=Operative-Manufacturing  
+family_structure=intact race=white sons_occupation=Laborer-Manufacturing  
+family_structure=intact race=white sons_occupation=Laborer-Nonmanufacturing  
+family_structure=intact race=white sons_occupation=Farmer/Farm_Manager  
+family_structure=intact race=white sons_occupation=Farm_Laborer  
+family_structure=intact race=white fathers_occupation=Professional-Salaried  
+family_structure=intact race=white fathers_occupation=Manager  
+family_structure=intact race=white fathers_occupation=Salesman-Nonretail  
+family_structure=intact race=white fathers_occupation=Proprietor  
+family_structure=intact race=white fathers_occupation=Clerk  
+family_structure=intact race=white fathers_occupation=Salesman-Retail  
+family_structure=intact race=white fathers_occupation=Craftsman-Manufacturing  
+family_structure=intact race=white fathers_occupation=Craftsmen-Other  
+family_structure=intact race=white fathers_occupation=Craftsman-Construction  
+family_structure=intact race=white fathers_occupation=Service_Worker  
+family_structure=intact race=white fathers_occupation=Operative-Nonmanufacturing  
+family_structure=intact race=white fathers_occupation=Operative-Manufacturing  
+family_structure=intact race=white fathers_occupation=Laborer-Manufacturing  
+family_structure=intact race=white fathers_occupation=Laborer-Nonmanufacturing  
+family_structure=intact race=white fathers_occupation=Farmer/Farm_Manager  
+family_structure=intact race=white fathers_occupation=Farm_Laborer  
+family_structure=intact sons_occupation=Professional-Salaried race=black  
+family_structure=intact sons_occupation=Manager race=black  
+family_structure=intact sons_occupation=Salesman-Nonretail race=black  
+family_structure=intact sons_occupation=Proprietor counts_for_sons_first_occupation=0  
+family_structure=intact sons_occupation=Proprietor race=black  
+family_structure=intact sons_occupation=Clerk race=black  
+family_structure=intact sons_occupation=Salesman-Retail race=black  
+family_structure=intact sons_occupation=Craftsman-Manufacturing race=black  
+family_structure=intact sons_occupation=Craftsmen-Other race=black  
+family_structure=intact sons_occupation=Craftsman-Construction race=black  
+family_structure=intact sons_occupation=Service_Worker race=black  
+family_structure=intact sons_occupation=Operative-Nonmanufacturing race=black  
+family_structure=intact sons_occupation=Operative-Manufacturing race=black  
+family_structure=intact sons_occupation=Laborer-Manufacturing race=black  
+family_structure=intact sons_occupation=Laborer-Nonmanufacturing race=black  
+family_structure=intact sons_occupation=Farmer/Farm_Manager race=black  
+family_structure=intact sons_occupation=Farm_Laborer race=black  
+family_structure=intact counts_for_sons_first_occupation=0 race=black  
+family_structure=intact fathers_occupation=Professional-Salaried race=black  
+family_structure=intact fathers_occupation=Manager race=black  
+family_structure=intact fathers_occupation=Salesman-Nonretail race=black  
+family_structure=intact fathers_occupation=Proprietor race=black  
+family_structure=intact fathers_occupation=Clerk race=black  
+family_structure=intact fathers_occupation=Salesman-Retail counts_for_sons_current_occupation=0  
+family_structure=intact fathers_occupation=Salesman-Retail race=black  
+family_structure=intact counts_for_sons_current_occupation=0 race=black  
+family_structure=intact fathers_occupation=Craftsman-Manufacturing race=black  
+family_structure=intact fathers_occupation=Craftsmen-Other race=black  
+family_structure=intact fathers_occupation=Craftsman-Construction race=black  
+family_structure=intact fathers_occupation=Service_Worker race=black  
+family_structure=intact fathers_occupation=Operative-Nonmanufacturing race=black  
+family_structure=intact fathers_occupation=Operative-Manufacturing race=black  
+family_structure=intact counts_for_sons_first_occupation=0.5 race=black  
+family_structure=intact fathers_occupation=Laborer-Manufacturing race=black  
+family_structure=intact fathers_occupation=Laborer-Nonmanufacturing race=black  
+family_structure=intact fathers_occupation=Farmer/Farm_Manager race=black  
+family_structure=intact fathers_occupation=Farm_Laborer race=black  
+family_structure=intact counts_for_sons_current_occupation=0.5 race=black  
+race=white sons_occupation=Professional-Salaried family_structure=nonintact  
+race=white sons_occupation=Manager family_structure=nonintact  
+race=white sons_occupation=Salesman-Nonretail family_structure=nonintact  
+race=white sons_occupation=Proprietor family_structure=nonintact  
+race=white sons_occupation=Clerk family_structure=nonintact  
+race=white sons_occupation=Salesman-Retail family_structure=nonintact  
+race=white sons_occupation=Craftsman-Manufacturing family_structure=nonintact  
+race=white sons_occupation=Craftsmen-Other family_structure=nonintact  
+race=white sons_occupation=Craftsman-Construction family_structure=nonintact  
+race=white sons_occupation=Service_Worker family_structure=nonintact  
+race=white sons_occupation=Operative-Nonmanufacturing family_structure=nonintact  
+race=white sons_occupation=Operative-Manufacturing family_structure=nonintact  
+race=white sons_occupation=Laborer-Manufacturing family_structure=nonintact  
+race=white sons_occupation=Laborer-Nonmanufacturing family_structure=nonintact  
+race=white sons_occupation=Farmer/Farm_Manager family_structure=nonintact  
+race=white sons_occupation=Farm_Laborer family_structure=nonintact  
+race=white counts_for_sons_first_occupation=0 family_structure=nonintact  
+race=white counts_for_sons_current_occupation=0.8 family_structure=nonintact  
+race=white fathers_occupation=Professional-Salaried family_structure=nonintact  
+race=white fathers_occupation=Manager family_structure=nonintact  
+race=white fathers_occupation=Salesman-Nonretail family_structure=nonintact  
+race=white fathers_occupation=Proprietor family_structure=nonintact  
+race=white fathers_occupation=Clerk family_structure=nonintact  
+race=white fathers_occupation=Salesman-Retail family_structure=nonintact  
+race=white counts_for_sons_current_occupation=0 family_structure=nonintact  
+race=white fathers_occupation=Craftsman-Manufacturing family_structure=nonintact  
+race=white fathers_occupation=Craftsmen-Other family_structure=nonintact  
+race=white fathers_occupation=Craftsman-Construction family_structure=nonintact  
+race=white fathers_occupation=Service_Worker family_structure=nonintact  
+race=white fathers_occupation=Operative-Nonmanufacturing family_structure=nonintact  
+race=white fathers_occupation=Operative-Manufacturing family_structure=nonintact  
+race=white fathers_occupation=Laborer-Manufacturing family_structure=nonintact  
+race=white fathers_occupation=Laborer-Nonmanufacturing family_structure=nonintact  
+race=white fathers_occupation=Farmer/Farm_Manager family_structure=nonintact  
+race=white fathers_occupation=Farm_Laborer family_structure=nonintact  
+race=white family_structure=nonintact counts_for_sons_first_occupation=0.8  
+sons_occupation=Professional-Salaried family_structure=nonintact race=black  
+sons_occupation=Manager counts_for_sons_first_occupation=0 race=black  
+sons_occupation=Manager family_structure=nonintact race=black  
+sons_occupation=Salesman-Nonretail counts_for_sons_first_occupation=0 family_structure=nonintact  
+sons_occupation=Salesman-Nonretail counts_for_sons_first_occupation=0 race=black  
+sons_occupation=Salesman-Nonretail counts_for_sons_current_occupation=0 race=black  
+sons_occupation=Salesman-Nonretail family_structure=nonintact race=black  
+sons_occupation=Proprietor counts_for_sons_first_occupation=0 counts_for_sons_current_occupation=0  
+sons_occupation=Proprietor counts_for_sons_first_occupation=0 family_structure=nonintact  
+sons_occupation=Proprietor counts_for_sons_first_occupation=0 race=black  
+sons_occupation=Proprietor counts_for_sons_current_occupation=0 race=black  
+sons_occupation=Proprietor family_structure=nonintact race=black  
+sons_occupation=Clerk family_structure=nonintact race=black  
+sons_occupation=Salesman-Retail counts_for_sons_first_occupation=0 race=black  
+sons_occupation=Salesman-Retail counts_for_sons_current_occupation=0 family_structure=nonintact  
+sons_occupation=Salesman-Retail counts_for_sons_current_occupation=0 race=black  
+sons_occupation=Salesman-Retail family_structure=nonintact race=black  
+sons_occupation=Craftsman-Manufacturing counts_for_sons_first_occupation=0 race=black  
+sons_occupation=Craftsman-Manufacturing family_structure=nonintact race=black  
+sons_occupation=Craftsmen-Other counts_for_sons_first_occupation=0 race=black  
+sons_occupation=Craftsmen-Other family_structure=nonintact race=black  
+sons_occupation=Craftsman-Construction counts_for_sons_first_occupation=0 race=black  
+sons_occupation=Craftsman-Construction counts_for_sons_current_occupation=0 race=black  
+sons_occupation=Craftsman-Construction family_structure=nonintact race=black  
+sons_occupation=Service_Worker family_structure=nonintact race=black  
+sons_occupation=Operative-Nonmanufacturing family_structure=nonintact race=black  
+sons_occupation=Operative-Manufacturing family_structure=nonintact race=black  
+sons_occupation=Laborer-Manufacturing counts_for_sons_current_occupation=0 family_structure=nonintact  
+sons_occupation=Laborer-Manufacturing family_structure=nonintact race=black  
+sons_occupation=Laborer-Nonmanufacturing family_structure=nonintact race=black  
+sons_occupation=Farmer/Farm_Manager counts_for_sons_first_occupation=0 counts_for_sons_current_occupation=0  
+sons_occupation=Farmer/Farm_Manager counts_for_sons_first_occupation=0 family_structure=nonintact  
+sons_occupation=Farmer/Farm_Manager counts_for_sons_current_occupation=0 family_structure=nonintact  
+sons_occupation=Farmer/Farm_Manager counts_for_sons_current_occupation=0 race=black  
+sons_occupation=Farmer/Farm_Manager family_structure=nonintact race=black  
+sons_occupation=Farm_Laborer counts_for_sons_first_occupation=0 counts_for_sons_current_occupation=0  
+sons_occupation=Farm_Laborer counts_for_sons_first_occupation=0 family_structure=nonintact  
+sons_occupation=Farm_Laborer counts_for_sons_current_occupation=0 family_structure=nonintact  
+sons_occupation=Farm_Laborer counts_for_sons_current_occupation=0 race=black  
+sons_occupation=Farm_Laborer family_structure=nonintact race=black  
+counts_for_sons_first_occupation=0 fathers_occupation=Manager race=black  
+counts_for_sons_first_occupation=0 fathers_occupation=Salesman-Nonretail counts_for_sons_current_occupation=0  
+counts_for_sons_first_occupation=0 fathers_occupation=Salesman-Nonretail family_structure=nonintact  
+counts_for_sons_first_occupation=0 fathers_occupation=Salesman-Nonretail race=black  
+counts_for_sons_first_occupation=0 fathers_occupation=Proprietor race=black  
+counts_for_sons_first_occupation=0 fathers_occupation=Clerk race=black  
+counts_for_sons_first_occupation=0 fathers_occupation=Salesman-Retail counts_for_sons_current_occupation=0  
+counts_for_sons_first_occupation=0 fathers_occupation=Salesman-Retail family_structure=nonintact  
+counts_for_sons_first_occupation=0 fathers_occupation=Salesman-Retail race=black  
+counts_for_sons_first_occupation=0 counts_for_sons_current_occupation=0 family_structure=nonintact  
+counts_for_sons_first_occupation=0 counts_for_sons_current_occupation=0 race=black  
+counts_for_sons_first_occupation=0 fathers_occupation=Craftsman-Manufacturing family_structure=nonintact  
+counts_for_sons_first_occupation=0 fathers_occupation=Craftsman-Manufacturing race=black  
+counts_for_sons_first_occupation=0 fathers_occupation=Craftsman-Construction race=black  
+counts_for_sons_first_occupation=0 fathers_occupation=Laborer-Manufacturing family_structure=nonintact  
+counts_for_sons_first_occupation=0 family_structure=nonintact race=black  
+counts_for_sons_first_occupation=0 counts_for_sons_current_occupation=0.5 race=black  
+counts_for_sons_first_occupation=0 race=black counts_for_sons_current_occupation=0.4  
+fathers_occupation=Professional-Salaried family_structure=nonintact race=black  
+fathers_occupation=Manager counts_for_sons_current_occupation=0 family_structure=nonintact  
+fathers_occupation=Manager counts_for_sons_current_occupation=0 race=black  
+fathers_occupation=Manager family_structure=nonintact race=black  
+fathers_occupation=Salesman-Nonretail counts_for_sons_current_occupation=0 family_structure=nonintact  
+fathers_occupation=Salesman-Nonretail counts_for_sons_current_occupation=0 race=black  
+fathers_occupation=Salesman-Nonretail family_structure=nonintact race=black  
+fathers_occupation=Proprietor counts_for_sons_current_occupation=0 race=black  
+fathers_occupation=Proprietor family_structure=nonintact race=black  
+fathers_occupation=Clerk counts_for_sons_current_occupation=0 race=black  
+fathers_occupation=Clerk family_structure=nonintact race=black  
+fathers_occupation=Salesman-Retail counts_for_sons_current_occupation=0 family_structure=nonintact  
+fathers_occupation=Salesman-Retail counts_for_sons_current_occupation=0 race=black  
+fathers_occupation=Salesman-Retail family_structure=nonintact race=black  
+counts_for_sons_current_occupation=0 fathers_occupation=Craftsman-Manufacturing race=black  
+counts_for_sons_current_occupation=0 counts_for_sons_first_occupation=0.5 race=black  
+counts_for_sons_current_occupation=0 fathers_occupation=Laborer-Manufacturing family_structure=nonintact  
+counts_for_sons_current_occupation=0 family_structure=nonintact race=black  
+fathers_occupation=Craftsman-Manufacturing family_structure=nonintact race=black  
+fathers_occupation=Craftsmen-Other family_structure=nonintact race=black  
+fathers_occupation=Craftsman-Construction family_structure=nonintact race=black  
+fathers_occupation=Service_Worker family_structure=nonintact race=black  
+fathers_occupation=Operative-Nonmanufacturing family_structure=nonintact race=black  
+fathers_occupation=Operative-Manufacturing family_structure=nonintact race=black  
+counts_for_sons_first_occupation=0.5 family_structure=nonintact race=black  
+fathers_occupation=Laborer-Manufacturing family_structure=nonintact race=black  
+fathers_occupation=Laborer-Nonmanufacturing family_structure=nonintact race=black  
+fathers_occupation=Farmer/Farm_Manager family_structure=nonintact race=black  
+fathers_occupation=Farm_Laborer family_structure=nonintact race=black  
+family_structure=nonintact counts_for_sons_first_occupation=0.6 race=black  
+family_structure=nonintact counts_for_sons_current_occupation=0.5 race=black  
+family_structure=nonintact race=black counts_for_sons_current_occupation=0.4  
+fathers_occupation=Professional_Self-Employed counts_for_sons_first_occupation=0 counts_for_sons_current_occupation=0 family_structure=nonintact  
+fathers_occupation=Professional_Self-Employed counts_for_sons_first_occupation=0 counts_for_sons_current_occupation=0 race=black  
+sons_occupation=Professional_Self-Employed family_structure=intact counts_for_sons_first_occupation=0 race=black  
+sons_occupation=Professional_Self-Employed counts_for_sons_first_occupation=0 counts_for_sons_current_occupation=0 family_structure=nonintact  
+sons_occupation=Professional_Self-Employed counts_for_sons_first_occupation=0 counts_for_sons_current_occupation=0 race=black  
+sons_occupation=Professional_Self-Employed counts_for_sons_first_occupation=0 family_structure=nonintact race=black  
+sons_occupation=Professional_Self-Employed counts_for_sons_current_occupation=0 family_structure=nonintact race=black  
+family_structure=intact sons_occupation=Proprietor counts_for_sons_first_occupation=0 race=black  
+family_structure=intact sons_occupation=Farmer/Farm_Manager counts_for_sons_current_occupation=0 race=black  
+family_structure=intact counts_for_sons_first_occupation=0 fathers_occupation=Salesman-Nonretail race=black  
+family_structure=intact counts_for_sons_first_occupation=0 counts_for_sons_current_occupation=0 race=black  
+family_structure=intact fathers_occupation=Salesman-Nonretail counts_for_sons_current_occupation=0 race=black  
+family_structure=intact fathers_occupation=Salesman-Retail counts_for_sons_current_occupation=0 race=black  
+sons_occupation=Salesman-Nonretail counts_for_sons_first_occupation=0 counts_for_sons_current_occupation=0 race=black  
+sons_occupation=Salesman-Nonretail counts_for_sons_first_occupation=0 family_structure=nonintact race=black  
+sons_occupation=Salesman-Nonretail counts_for_sons_current_occupation=0 family_structure=nonintact race=black  
+sons_occupation=Proprietor counts_for_sons_first_occupation=0 counts_for_sons_current_occupation=0 race=black  
+sons_occupation=Proprietor counts_for_sons_first_occupation=0 family_structure=nonintact race=black  
+sons_occupation=Salesman-Retail counts_for_sons_current_occupation=0 family_structure=nonintact race=black  
+sons_occupation=Farmer/Farm_Manager counts_for_sons_first_occupation=0 counts_for_sons_current_occupation=0 family_structure=nonintact  
+sons_occupation=Farmer/Farm_Manager counts_for_sons_first_occupation=0 counts_for_sons_current_occupation=0 race=black  
+sons_occupation=Farmer/Farm_Manager counts_for_sons_current_occupation=0 family_structure=nonintact race=black  
+sons_occupation=Farm_Laborer counts_for_sons_first_occupation=0 counts_for_sons_current_occupation=0 family_structure=nonintact  
+sons_occupation=Farm_Laborer counts_for_sons_first_occupation=0 counts_for_sons_current_occupation=0 race=black  
+sons_occupation=Farm_Laborer counts_for_sons_current_occupation=0 family_structure=nonintact race=black  
+counts_for_sons_first_occupation=0 fathers_occupation=Manager counts_for_sons_current_occupation=0 race=black  
+counts_for_sons_first_occupation=0 fathers_occupation=Salesman-Nonretail counts_for_sons_current_occupation=0 family_structure=nonintact  
+counts_for_sons_first_occupation=0 fathers_occupation=Salesman-Nonretail counts_for_sons_current_occupation=0 race=black  
+counts_for_sons_first_occupation=0 fathers_occupation=Salesman-Nonretail family_structure=nonintact race=black  
+counts_for_sons_first_occupation=0 fathers_occupation=Clerk counts_for_sons_current_occupation=0 race=black  
+counts_for_sons_first_occupation=0 fathers_occupation=Salesman-Retail counts_for_sons_current_occupation=0 family_structure=nonintact  
+counts_for_sons_first_occupation=0 fathers_occupation=Salesman-Retail counts_for_sons_current_occupation=0 race=black  
+counts_for_sons_first_occupation=0 fathers_occupation=Salesman-Retail family_structure=nonintact race=black  
+counts_for_sons_first_occupation=0 counts_for_sons_current_occupation=0 family_structure=nonintact race=black  
+fathers_occupation=Salesman-Nonretail counts_for_sons_current_occupation=0 family_structure=nonintact race=black  
+fathers_occupation=Salesman-Retail counts_for_sons_current_occupation=0 family_structure=nonintact race=black  
+fathers_occupation=Professional_Self-Employed counts_for_sons_first_occupation=0 counts_for_sons_current_occupation=0 family_structure=nonintact race=black  
+sons_occupation=Professional_Self-Employed counts_for_sons_first_occupation=0 counts_for_sons_current_occupation=0 family_structure=nonintact race=black  
+family_structure=intact sons_occupation=Farmer/Farm_Manager counts_for_sons_first_occupation=0 counts_for_sons_current_occupation=0 race=black  
+family_structure=intact counts_for_sons_first_occupation=0 fathers_occupation=Salesman-Nonretail counts_for_sons_current_occupation=0 race=black  
+sons_occupation=Farmer/Farm_Manager counts_for_sons_first_occupation=0 counts_for_sons_current_occupation=0 family_structure=nonintact race=black  
+counts_for_sons_first_occupation=0 fathers_occupation=Salesman-Nonretail counts_for_sons_current_occupation=0 family_structure=nonintact race=black  

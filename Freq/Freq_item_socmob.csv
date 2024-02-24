@@ -1,0 +1,632 @@
+fathers_occupation=Professional_Self-Employed #SUP: 68
+sons_occupation=Professional_Self-Employed #SUP: 68
+family_structure=intact #SUP: 578
+race=white #SUP: 578
+binaryClass=N #SUP: 256
+sons_occupation=Professional-Salaried #SUP: 68
+sons_occupation=Manager #SUP: 68
+sons_occupation=Salesman-Nonretail #SUP: 68
+binaryClass=P #SUP: 900
+sons_occupation=Proprietor #SUP: 68
+sons_occupation=Clerk #SUP: 68
+sons_occupation=Salesman-Retail #SUP: 68
+sons_occupation=Craftsman-Manufacturing #SUP: 68
+sons_occupation=Craftsmen-Other #SUP: 68
+sons_occupation=Craftsman-Construction #SUP: 68
+sons_occupation=Service_Worker #SUP: 68
+sons_occupation=Operative-Nonmanufacturing #SUP: 68
+sons_occupation=Operative-Manufacturing #SUP: 68
+sons_occupation=Laborer-Manufacturing #SUP: 68
+sons_occupation=Laborer-Nonmanufacturing #SUP: 68
+sons_occupation=Farmer/Farm_Manager #SUP: 68
+sons_occupation=Farm_Laborer #SUP: 68
+fathers_occupation=Professional-Salaried #SUP: 68
+fathers_occupation=Manager #SUP: 68
+fathers_occupation=Salesman-Nonretail #SUP: 68
+fathers_occupation=Proprietor #SUP: 68
+fathers_occupation=Clerk #SUP: 68
+fathers_occupation=Salesman-Retail #SUP: 68
+fathers_occupation=Craftsman-Manufacturing #SUP: 68
+fathers_occupation=Craftsmen-Other #SUP: 68
+fathers_occupation=Craftsman-Construction #SUP: 68
+fathers_occupation=Service_Worker #SUP: 68
+fathers_occupation=Operative-Nonmanufacturing #SUP: 68
+fathers_occupation=Operative-Manufacturing #SUP: 68
+counts_for_sons_first_occupation=0.5 #SUP: 31
+fathers_occupation=Laborer-Manufacturing #SUP: 68
+fathers_occupation=Laborer-Nonmanufacturing #SUP: 68
+fathers_occupation=Farmer/Farm_Manager #SUP: 68
+fathers_occupation=Farm_Laborer #SUP: 68
+family_structure=nonintact #SUP: 578
+race=black #SUP: 578
+fathers_occupation=Professional_Self-Employed family_structure=intact  #SUP: 34
+fathers_occupation=Professional_Self-Employed race=white  #SUP: 34
+fathers_occupation=Professional_Self-Employed binaryClass=P  #SUP: 65
+sons_occupation=Professional_Self-Employed family_structure=intact  #SUP: 34
+sons_occupation=Professional_Self-Employed race=white  #SUP: 34
+sons_occupation=Professional_Self-Employed binaryClass=P  #SUP: 62
+family_structure=intact race=white  #SUP: 289
+family_structure=intact binaryClass=N  #SUP: 217
+family_structure=intact sons_occupation=Professional-Salaried  #SUP: 34
+family_structure=intact sons_occupation=Manager  #SUP: 34
+family_structure=intact sons_occupation=Salesman-Nonretail  #SUP: 34
+family_structure=intact binaryClass=P  #SUP: 361
+family_structure=intact sons_occupation=Proprietor  #SUP: 34
+family_structure=intact sons_occupation=Clerk  #SUP: 34
+family_structure=intact sons_occupation=Salesman-Retail  #SUP: 34
+family_structure=intact sons_occupation=Craftsman-Manufacturing  #SUP: 34
+family_structure=intact sons_occupation=Craftsmen-Other  #SUP: 34
+family_structure=intact sons_occupation=Craftsman-Construction  #SUP: 34
+family_structure=intact sons_occupation=Service_Worker  #SUP: 34
+family_structure=intact sons_occupation=Operative-Nonmanufacturing  #SUP: 34
+family_structure=intact sons_occupation=Operative-Manufacturing  #SUP: 34
+family_structure=intact sons_occupation=Laborer-Manufacturing  #SUP: 34
+family_structure=intact sons_occupation=Laborer-Nonmanufacturing  #SUP: 34
+family_structure=intact sons_occupation=Farmer/Farm_Manager  #SUP: 34
+family_structure=intact sons_occupation=Farm_Laborer  #SUP: 34
+family_structure=intact fathers_occupation=Professional-Salaried  #SUP: 34
+family_structure=intact fathers_occupation=Manager  #SUP: 34
+family_structure=intact fathers_occupation=Salesman-Nonretail  #SUP: 34
+family_structure=intact fathers_occupation=Proprietor  #SUP: 34
+family_structure=intact fathers_occupation=Clerk  #SUP: 34
+family_structure=intact fathers_occupation=Salesman-Retail  #SUP: 34
+family_structure=intact fathers_occupation=Craftsman-Manufacturing  #SUP: 34
+family_structure=intact fathers_occupation=Craftsmen-Other  #SUP: 34
+family_structure=intact fathers_occupation=Craftsman-Construction  #SUP: 34
+family_structure=intact fathers_occupation=Service_Worker  #SUP: 34
+family_structure=intact fathers_occupation=Operative-Nonmanufacturing  #SUP: 34
+family_structure=intact fathers_occupation=Operative-Manufacturing  #SUP: 34
+family_structure=intact counts_for_sons_first_occupation=0.5  #SUP: 15
+family_structure=intact fathers_occupation=Laborer-Manufacturing  #SUP: 34
+family_structure=intact fathers_occupation=Laborer-Nonmanufacturing  #SUP: 34
+family_structure=intact fathers_occupation=Farmer/Farm_Manager  #SUP: 34
+family_structure=intact fathers_occupation=Farm_Laborer  #SUP: 34
+family_structure=intact race=black  #SUP: 289
+race=white binaryClass=N  #SUP: 238
+race=white sons_occupation=Professional-Salaried  #SUP: 34
+race=white sons_occupation=Manager  #SUP: 34
+race=white sons_occupation=Salesman-Nonretail  #SUP: 34
+race=white binaryClass=P  #SUP: 340
+race=white sons_occupation=Proprietor  #SUP: 34
+race=white sons_occupation=Clerk  #SUP: 34
+race=white sons_occupation=Salesman-Retail  #SUP: 34
+race=white sons_occupation=Craftsman-Manufacturing  #SUP: 34
+race=white sons_occupation=Craftsmen-Other  #SUP: 34
+race=white sons_occupation=Craftsman-Construction  #SUP: 34
+race=white sons_occupation=Service_Worker  #SUP: 34
+race=white sons_occupation=Operative-Nonmanufacturing  #SUP: 34
+race=white sons_occupation=Operative-Manufacturing  #SUP: 34
+race=white sons_occupation=Laborer-Manufacturing  #SUP: 34
+race=white sons_occupation=Laborer-Nonmanufacturing  #SUP: 34
+race=white sons_occupation=Farmer/Farm_Manager  #SUP: 34
+race=white sons_occupation=Farm_Laborer  #SUP: 34
+race=white fathers_occupation=Professional-Salaried  #SUP: 34
+race=white fathers_occupation=Manager  #SUP: 34
+race=white fathers_occupation=Salesman-Nonretail  #SUP: 34
+race=white fathers_occupation=Proprietor  #SUP: 34
+race=white fathers_occupation=Clerk  #SUP: 34
+race=white fathers_occupation=Salesman-Retail  #SUP: 34
+race=white fathers_occupation=Craftsman-Manufacturing  #SUP: 34
+race=white fathers_occupation=Craftsmen-Other  #SUP: 34
+race=white fathers_occupation=Craftsman-Construction  #SUP: 34
+race=white fathers_occupation=Service_Worker  #SUP: 34
+race=white fathers_occupation=Operative-Nonmanufacturing  #SUP: 34
+race=white fathers_occupation=Operative-Manufacturing  #SUP: 34
+race=white fathers_occupation=Laborer-Manufacturing  #SUP: 34
+race=white fathers_occupation=Laborer-Nonmanufacturing  #SUP: 34
+race=white fathers_occupation=Farmer/Farm_Manager  #SUP: 34
+race=white fathers_occupation=Farm_Laborer  #SUP: 34
+race=white family_structure=nonintact  #SUP: 289
+binaryClass=N sons_occupation=Service_Worker  #SUP: 18
+binaryClass=N sons_occupation=Operative-Nonmanufacturing  #SUP: 23
+binaryClass=N sons_occupation=Operative-Manufacturing  #SUP: 28
+binaryClass=N sons_occupation=Laborer-Nonmanufacturing  #SUP: 18
+binaryClass=N fathers_occupation=Service_Worker  #SUP: 27
+binaryClass=N fathers_occupation=Operative-Manufacturing  #SUP: 22
+binaryClass=N fathers_occupation=Farmer/Farm_Manager  #SUP: 31
+binaryClass=N fathers_occupation=Farm_Laborer  #SUP: 17
+binaryClass=N family_structure=nonintact  #SUP: 39
+binaryClass=N race=black  #SUP: 18
+sons_occupation=Professional-Salaried binaryClass=P  #SUP: 47
+sons_occupation=Professional-Salaried family_structure=nonintact  #SUP: 34
+sons_occupation=Manager binaryClass=P  #SUP: 46
+sons_occupation=Manager family_structure=nonintact  #SUP: 34
+sons_occupation=Salesman-Nonretail binaryClass=P  #SUP: 55
+binaryClass=P sons_occupation=Proprietor  #SUP: 58
+binaryClass=P sons_occupation=Clerk  #SUP: 49
+binaryClass=P sons_occupation=Salesman-Retail  #SUP: 57
+binaryClass=P sons_occupation=Craftsman-Manufacturing  #SUP: 50
+binaryClass=P sons_occupation=Craftsmen-Other  #SUP: 48
+binaryClass=P sons_occupation=Craftsman-Construction  #SUP: 52
+binaryClass=P sons_occupation=Service_Worker  #SUP: 50
+binaryClass=P sons_occupation=Operative-Nonmanufacturing  #SUP: 45
+binaryClass=P sons_occupation=Operative-Manufacturing  #SUP: 40
+binaryClass=P sons_occupation=Laborer-Manufacturing  #SUP: 60
+binaryClass=P sons_occupation=Laborer-Nonmanufacturing  #SUP: 50
+binaryClass=P sons_occupation=Farmer/Farm_Manager  #SUP: 65
+binaryClass=P counts_for_sons_first_occupation=1.4  #SUP: 12
+binaryClass=P sons_occupation=Farm_Laborer  #SUP: 66
+binaryClass=P counts_for_sons_first_occupation=0  #SUP: 263
+binaryClass=P fathers_occupation=Professional-Salaried  #SUP: 54
+binaryClass=P fathers_occupation=Manager  #SUP: 54
+binaryClass=P fathers_occupation=Salesman-Nonretail  #SUP: 58
+binaryClass=P fathers_occupation=Proprietor  #SUP: 54
+binaryClass=P fathers_occupation=Clerk  #SUP: 54
+binaryClass=P fathers_occupation=Salesman-Retail  #SUP: 60
+binaryClass=P fathers_occupation=Craftsman-Manufacturing  #SUP: 54
+binaryClass=P fathers_occupation=Craftsmen-Other  #SUP: 54
+binaryClass=P fathers_occupation=Craftsman-Construction  #SUP: 55
+binaryClass=P fathers_occupation=Service_Worker  #SUP: 41
+binaryClass=P fathers_occupation=Operative-Nonmanufacturing  #SUP: 50
+binaryClass=P fathers_occupation=Operative-Manufacturing  #SUP: 46
+binaryClass=P fathers_occupation=Laborer-Manufacturing  #SUP: 58
+binaryClass=P counts_for_sons_first_occupation=0.7  #SUP: 19
+binaryClass=P fathers_occupation=Laborer-Nonmanufacturing  #SUP: 55
+binaryClass=P fathers_occupation=Farmer/Farm_Manager  #SUP: 37
+binaryClass=P fathers_occupation=Farm_Laborer  #SUP: 51
+binaryClass=P counts_for_sons_first_occupation=1.5  #SUP: 12
+binaryClass=P family_structure=nonintact  #SUP: 539
+binaryClass=P counts_for_sons_first_occupation=0.9  #SUP: 19
+binaryClass=P counts_for_sons_first_occupation=0.8  #SUP: 25
+binaryClass=P counts_for_sons_first_occupation=0.6  #SUP: 25
+binaryClass=P counts_for_sons_first_occupation=0.4  #SUP: 20
+binaryClass=P counts_for_sons_first_occupation=1  #SUP: 18
+binaryClass=P race=black  #SUP: 560
+sons_occupation=Clerk family_structure=nonintact  #SUP: 34
+sons_occupation=Craftsman-Manufacturing family_structure=nonintact  #SUP: 34
+sons_occupation=Craftsmen-Other family_structure=nonintact  #SUP: 34
+sons_occupation=Craftsman-Construction family_structure=nonintact  #SUP: 34
+sons_occupation=Service_Worker family_structure=nonintact  #SUP: 34
+sons_occupation=Service_Worker race=black  #SUP: 34
+sons_occupation=Operative-Nonmanufacturing family_structure=nonintact  #SUP: 34
+sons_occupation=Operative-Nonmanufacturing race=black  #SUP: 34
+sons_occupation=Operative-Manufacturing family_structure=nonintact  #SUP: 34
+sons_occupation=Operative-Manufacturing race=black  #SUP: 34
+sons_occupation=Laborer-Manufacturing race=black  #SUP: 34
+sons_occupation=Laborer-Nonmanufacturing family_structure=nonintact  #SUP: 34
+sons_occupation=Laborer-Nonmanufacturing race=black  #SUP: 34
+sons_occupation=Farmer/Farm_Manager family_structure=nonintact  #SUP: 34
+fathers_occupation=Professional-Salaried family_structure=nonintact  #SUP: 34
+fathers_occupation=Clerk family_structure=nonintact  #SUP: 34
+fathers_occupation=Service_Worker family_structure=nonintact  #SUP: 34
+fathers_occupation=Service_Worker race=black  #SUP: 34
+fathers_occupation=Operative-Nonmanufacturing family_structure=nonintact  #SUP: 34
+fathers_occupation=Operative-Manufacturing family_structure=nonintact  #SUP: 34
+fathers_occupation=Operative-Manufacturing race=black  #SUP: 34
+fathers_occupation=Laborer-Manufacturing race=black  #SUP: 34
+fathers_occupation=Laborer-Nonmanufacturing race=black  #SUP: 34
+fathers_occupation=Farmer/Farm_Manager family_structure=nonintact  #SUP: 34
+fathers_occupation=Farmer/Farm_Manager race=black  #SUP: 34
+fathers_occupation=Farm_Laborer family_structure=nonintact  #SUP: 34
+fathers_occupation=Farm_Laborer race=black  #SUP: 34
+family_structure=nonintact race=black  #SUP: 289
+fathers_occupation=Professional_Self-Employed family_structure=intact race=white  #SUP: 17
+fathers_occupation=Professional_Self-Employed family_structure=intact binaryClass=P  #SUP: 31
+fathers_occupation=Professional_Self-Employed race=white binaryClass=P  #SUP: 31
+fathers_occupation=Professional_Self-Employed binaryClass=P counts_for_sons_first_occupation=0  #SUP: 30
+fathers_occupation=Professional_Self-Employed binaryClass=P family_structure=nonintact  #SUP: 34
+fathers_occupation=Professional_Self-Employed binaryClass=P race=black  #SUP: 34
+sons_occupation=Professional_Self-Employed family_structure=intact race=white  #SUP: 17
+sons_occupation=Professional_Self-Employed family_structure=intact binaryClass=P  #SUP: 28
+sons_occupation=Professional_Self-Employed race=white binaryClass=P  #SUP: 28
+sons_occupation=Professional_Self-Employed binaryClass=P counts_for_sons_first_occupation=0  #SUP: 35
+sons_occupation=Professional_Self-Employed binaryClass=P family_structure=nonintact  #SUP: 34
+sons_occupation=Professional_Self-Employed binaryClass=P race=black  #SUP: 34
+family_structure=intact race=white binaryClass=N  #SUP: 204
+family_structure=intact race=white sons_occupation=Salesman-Nonretail  #SUP: 17
+family_structure=intact race=white binaryClass=P  #SUP: 85
+family_structure=intact race=white sons_occupation=Proprietor  #SUP: 17
+family_structure=intact race=white sons_occupation=Clerk  #SUP: 17
+family_structure=intact race=white sons_occupation=Salesman-Retail  #SUP: 17
+family_structure=intact race=white sons_occupation=Craftsman-Manufacturing  #SUP: 17
+family_structure=intact race=white sons_occupation=Craftsmen-Other  #SUP: 17
+family_structure=intact race=white sons_occupation=Craftsman-Construction  #SUP: 17
+family_structure=intact race=white sons_occupation=Service_Worker  #SUP: 17
+family_structure=intact race=white sons_occupation=Operative-Nonmanufacturing  #SUP: 17
+family_structure=intact race=white sons_occupation=Operative-Manufacturing  #SUP: 17
+family_structure=intact race=white sons_occupation=Laborer-Manufacturing  #SUP: 17
+family_structure=intact race=white sons_occupation=Laborer-Nonmanufacturing  #SUP: 17
+family_structure=intact race=white sons_occupation=Farmer/Farm_Manager  #SUP: 17
+family_structure=intact race=white sons_occupation=Farm_Laborer  #SUP: 17
+family_structure=intact race=white fathers_occupation=Professional-Salaried  #SUP: 17
+family_structure=intact race=white fathers_occupation=Manager  #SUP: 17
+family_structure=intact race=white fathers_occupation=Salesman-Nonretail  #SUP: 17
+family_structure=intact race=white fathers_occupation=Proprietor  #SUP: 17
+family_structure=intact race=white fathers_occupation=Clerk  #SUP: 17
+family_structure=intact race=white fathers_occupation=Salesman-Retail  #SUP: 17
+family_structure=intact race=white fathers_occupation=Craftsman-Manufacturing  #SUP: 17
+family_structure=intact race=white fathers_occupation=Craftsmen-Other  #SUP: 17
+family_structure=intact race=white fathers_occupation=Craftsman-Construction  #SUP: 17
+family_structure=intact race=white fathers_occupation=Service_Worker  #SUP: 17
+family_structure=intact race=white fathers_occupation=Operative-Nonmanufacturing  #SUP: 17
+family_structure=intact race=white fathers_occupation=Operative-Manufacturing  #SUP: 17
+family_structure=intact race=white fathers_occupation=Laborer-Manufacturing  #SUP: 17
+family_structure=intact race=white fathers_occupation=Laborer-Nonmanufacturing  #SUP: 17
+family_structure=intact race=white fathers_occupation=Farm_Laborer  #SUP: 17
+family_structure=intact binaryClass=N sons_occupation=Service_Worker  #SUP: 15
+family_structure=intact binaryClass=N sons_occupation=Operative-Nonmanufacturing  #SUP: 18
+family_structure=intact binaryClass=N sons_occupation=Operative-Manufacturing  #SUP: 21
+family_structure=intact binaryClass=N sons_occupation=Laborer-Nonmanufacturing  #SUP: 16
+family_structure=intact binaryClass=N fathers_occupation=Operative-Manufacturing  #SUP: 15
+family_structure=intact binaryClass=N fathers_occupation=Laborer-Nonmanufacturing  #SUP: 13
+family_structure=intact binaryClass=N fathers_occupation=Farmer/Farm_Manager  #SUP: 22
+family_structure=intact binaryClass=N fathers_occupation=Farm_Laborer  #SUP: 16
+family_structure=intact binaryClass=N race=black  #SUP: 13
+family_structure=intact sons_occupation=Salesman-Nonretail binaryClass=P  #SUP: 21
+family_structure=intact binaryClass=P sons_occupation=Proprietor  #SUP: 24
+family_structure=intact binaryClass=P sons_occupation=Clerk  #SUP: 18
+family_structure=intact binaryClass=P sons_occupation=Salesman-Retail  #SUP: 23
+family_structure=intact binaryClass=P sons_occupation=Craftsman-Manufacturing  #SUP: 19
+family_structure=intact binaryClass=P sons_occupation=Craftsmen-Other  #SUP: 18
+family_structure=intact binaryClass=P sons_occupation=Craftsman-Construction  #SUP: 20
+family_structure=intact binaryClass=P sons_occupation=Service_Worker  #SUP: 19
+family_structure=intact binaryClass=P sons_occupation=Operative-Nonmanufacturing  #SUP: 16
+family_structure=intact binaryClass=P sons_occupation=Operative-Manufacturing  #SUP: 13
+family_structure=intact binaryClass=P sons_occupation=Laborer-Manufacturing  #SUP: 26
+family_structure=intact binaryClass=P sons_occupation=Laborer-Nonmanufacturing  #SUP: 18
+family_structure=intact binaryClass=P sons_occupation=Farmer/Farm_Manager  #SUP: 32
+family_structure=intact binaryClass=P sons_occupation=Farm_Laborer  #SUP: 32
+family_structure=intact binaryClass=P counts_for_sons_first_occupation=0  #SUP: 87
+family_structure=intact binaryClass=P fathers_occupation=Professional-Salaried  #SUP: 21
+family_structure=intact binaryClass=P fathers_occupation=Manager  #SUP: 20
+family_structure=intact binaryClass=P fathers_occupation=Salesman-Nonretail  #SUP: 24
+family_structure=intact binaryClass=P fathers_occupation=Proprietor  #SUP: 20
+family_structure=intact binaryClass=P fathers_occupation=Clerk  #SUP: 23
+family_structure=intact binaryClass=P fathers_occupation=Salesman-Retail  #SUP: 26
+family_structure=intact binaryClass=P fathers_occupation=Craftsman-Manufacturing  #SUP: 20
+family_structure=intact binaryClass=P fathers_occupation=Craftsmen-Other  #SUP: 20
+family_structure=intact binaryClass=P fathers_occupation=Craftsman-Construction  #SUP: 21
+family_structure=intact binaryClass=P fathers_occupation=Service_Worker  #SUP: 21
+family_structure=intact binaryClass=P fathers_occupation=Operative-Nonmanufacturing  #SUP: 20
+family_structure=intact binaryClass=P fathers_occupation=Operative-Manufacturing  #SUP: 19
+family_structure=intact binaryClass=P fathers_occupation=Laborer-Manufacturing  #SUP: 24
+family_structure=intact binaryClass=P fathers_occupation=Laborer-Nonmanufacturing  #SUP: 21
+family_structure=intact binaryClass=P fathers_occupation=Farm_Laborer  #SUP: 18
+family_structure=intact binaryClass=P race=black  #SUP: 276
+family_structure=intact sons_occupation=Service_Worker race=black  #SUP: 17
+family_structure=intact sons_occupation=Operative-Nonmanufacturing race=black  #SUP: 17
+family_structure=intact sons_occupation=Operative-Manufacturing race=black  #SUP: 17
+family_structure=intact sons_occupation=Laborer-Manufacturing race=black  #SUP: 17
+family_structure=intact sons_occupation=Laborer-Nonmanufacturing race=black  #SUP: 17
+family_structure=intact fathers_occupation=Operative-Manufacturing race=black  #SUP: 17
+family_structure=intact fathers_occupation=Laborer-Manufacturing race=black  #SUP: 17
+family_structure=intact fathers_occupation=Laborer-Nonmanufacturing race=black  #SUP: 17
+family_structure=intact fathers_occupation=Farmer/Farm_Manager race=black  #SUP: 17
+family_structure=intact fathers_occupation=Farm_Laborer race=black  #SUP: 17
+race=white binaryClass=N sons_occupation=Professional-Salaried  #SUP: 21
+race=white binaryClass=N sons_occupation=Manager  #SUP: 22
+race=white binaryClass=N sons_occupation=Clerk  #SUP: 19
+race=white binaryClass=N sons_occupation=Craftsman-Manufacturing  #SUP: 18
+race=white binaryClass=N sons_occupation=Craftsmen-Other  #SUP: 20
+race=white binaryClass=N sons_occupation=Craftsman-Construction  #SUP: 16
+race=white binaryClass=N sons_occupation=Service_Worker  #SUP: 16
+race=white binaryClass=N sons_occupation=Operative-Nonmanufacturing  #SUP: 19
+race=white binaryClass=N sons_occupation=Operative-Manufacturing  #SUP: 21
+race=white binaryClass=N sons_occupation=Laborer-Nonmanufacturing  #SUP: 14
+race=white binaryClass=N fathers_occupation=Professional-Salaried  #SUP: 14
+race=white binaryClass=N fathers_occupation=Clerk  #SUP: 14
+race=white binaryClass=N fathers_occupation=Service_Worker  #SUP: 23
+race=white binaryClass=N fathers_occupation=Operative-Nonmanufacturing  #SUP: 18
+race=white binaryClass=N fathers_occupation=Operative-Manufacturing  #SUP: 21
+race=white binaryClass=N fathers_occupation=Farmer/Farm_Manager  #SUP: 25
+race=white binaryClass=N fathers_occupation=Farm_Laborer  #SUP: 14
+race=white binaryClass=N family_structure=nonintact  #SUP: 34
+race=white sons_occupation=Professional-Salaried family_structure=nonintact  #SUP: 17
+race=white sons_occupation=Manager family_structure=nonintact  #SUP: 17
+race=white sons_occupation=Salesman-Nonretail binaryClass=P  #SUP: 21
+race=white binaryClass=P sons_occupation=Proprietor  #SUP: 24
+race=white binaryClass=P sons_occupation=Clerk  #SUP: 15
+race=white binaryClass=P sons_occupation=Salesman-Retail  #SUP: 23
+race=white binaryClass=P sons_occupation=Craftsman-Manufacturing  #SUP: 16
+race=white binaryClass=P sons_occupation=Craftsmen-Other  #SUP: 14
+race=white binaryClass=P sons_occupation=Craftsman-Construction  #SUP: 18
+race=white binaryClass=P sons_occupation=Service_Worker  #SUP: 18
+race=white binaryClass=P sons_occupation=Operative-Nonmanufacturing  #SUP: 15
+race=white binaryClass=P sons_occupation=Operative-Manufacturing  #SUP: 13
+race=white binaryClass=P sons_occupation=Laborer-Manufacturing  #SUP: 27
+race=white binaryClass=P sons_occupation=Laborer-Nonmanufacturing  #SUP: 20
+race=white binaryClass=P sons_occupation=Farmer/Farm_Manager  #SUP: 31
+race=white binaryClass=P sons_occupation=Farm_Laborer  #SUP: 32
+race=white binaryClass=P counts_for_sons_first_occupation=0  #SUP: 37
+race=white binaryClass=P fathers_occupation=Professional-Salaried  #SUP: 20
+race=white binaryClass=P fathers_occupation=Manager  #SUP: 20
+race=white binaryClass=P fathers_occupation=Salesman-Nonretail  #SUP: 24
+race=white binaryClass=P fathers_occupation=Proprietor  #SUP: 20
+race=white binaryClass=P fathers_occupation=Clerk  #SUP: 20
+race=white binaryClass=P fathers_occupation=Salesman-Retail  #SUP: 26
+race=white binaryClass=P fathers_occupation=Craftsman-Manufacturing  #SUP: 20
+race=white binaryClass=P fathers_occupation=Craftsmen-Other  #SUP: 20
+race=white binaryClass=P fathers_occupation=Craftsman-Construction  #SUP: 21
+race=white binaryClass=P fathers_occupation=Operative-Nonmanufacturing  #SUP: 16
+race=white binaryClass=P fathers_occupation=Operative-Manufacturing  #SUP: 13
+race=white binaryClass=P fathers_occupation=Laborer-Manufacturing  #SUP: 25
+race=white binaryClass=P fathers_occupation=Laborer-Nonmanufacturing  #SUP: 24
+race=white binaryClass=P fathers_occupation=Farm_Laborer  #SUP: 20
+race=white binaryClass=P family_structure=nonintact  #SUP: 255
+race=white sons_occupation=Clerk family_structure=nonintact  #SUP: 17
+race=white sons_occupation=Craftsman-Manufacturing family_structure=nonintact  #SUP: 17
+race=white sons_occupation=Craftsmen-Other family_structure=nonintact  #SUP: 17
+race=white sons_occupation=Craftsman-Construction family_structure=nonintact  #SUP: 17
+race=white sons_occupation=Service_Worker family_structure=nonintact  #SUP: 17
+race=white sons_occupation=Operative-Nonmanufacturing family_structure=nonintact  #SUP: 17
+race=white sons_occupation=Operative-Manufacturing family_structure=nonintact  #SUP: 17
+race=white sons_occupation=Laborer-Nonmanufacturing family_structure=nonintact  #SUP: 17
+race=white sons_occupation=Farmer/Farm_Manager family_structure=nonintact  #SUP: 17
+race=white fathers_occupation=Professional-Salaried family_structure=nonintact  #SUP: 17
+race=white fathers_occupation=Clerk family_structure=nonintact  #SUP: 17
+race=white fathers_occupation=Service_Worker family_structure=nonintact  #SUP: 17
+race=white fathers_occupation=Operative-Nonmanufacturing family_structure=nonintact  #SUP: 17
+race=white fathers_occupation=Operative-Manufacturing family_structure=nonintact  #SUP: 17
+race=white fathers_occupation=Farmer/Farm_Manager family_structure=nonintact  #SUP: 17
+race=white fathers_occupation=Farm_Laborer family_structure=nonintact  #SUP: 17
+binaryClass=N fathers_occupation=Service_Worker family_structure=nonintact  #SUP: 14
+sons_occupation=Professional-Salaried binaryClass=P family_structure=nonintact  #SUP: 30
+sons_occupation=Professional-Salaried binaryClass=P race=black  #SUP: 34
+sons_occupation=Manager binaryClass=P counts_for_sons_first_occupation=0  #SUP: 15
+sons_occupation=Manager binaryClass=P family_structure=nonintact  #SUP: 29
+sons_occupation=Manager binaryClass=P race=black  #SUP: 34
+sons_occupation=Salesman-Nonretail binaryClass=P counts_for_sons_first_occupation=0  #SUP: 23
+sons_occupation=Salesman-Nonretail binaryClass=P family_structure=nonintact  #SUP: 34
+sons_occupation=Salesman-Nonretail binaryClass=P race=black  #SUP: 34
+binaryClass=P sons_occupation=Proprietor counts_for_sons_first_occupation=0  #SUP: 39
+binaryClass=P sons_occupation=Proprietor family_structure=nonintact  #SUP: 34
+binaryClass=P sons_occupation=Proprietor race=black  #SUP: 34
+binaryClass=P sons_occupation=Clerk family_structure=nonintact  #SUP: 31
+binaryClass=P sons_occupation=Clerk race=black  #SUP: 34
+binaryClass=P sons_occupation=Salesman-Retail family_structure=nonintact  #SUP: 34
+binaryClass=P sons_occupation=Salesman-Retail race=black  #SUP: 34
+binaryClass=P sons_occupation=Craftsman-Manufacturing counts_for_sons_first_occupation=0  #SUP: 14
+binaryClass=P sons_occupation=Craftsman-Manufacturing family_structure=nonintact  #SUP: 31
+binaryClass=P sons_occupation=Craftsman-Manufacturing race=black  #SUP: 34
+binaryClass=P sons_occupation=Craftsmen-Other counts_for_sons_first_occupation=0  #SUP: 14
+binaryClass=P sons_occupation=Craftsmen-Other family_structure=nonintact  #SUP: 30
+binaryClass=P sons_occupation=Craftsmen-Other race=black  #SUP: 34
+binaryClass=P sons_occupation=Craftsman-Construction family_structure=nonintact  #SUP: 32
+binaryClass=P sons_occupation=Craftsman-Construction race=black  #SUP: 34
+binaryClass=P sons_occupation=Service_Worker family_structure=nonintact  #SUP: 31
+binaryClass=P sons_occupation=Service_Worker race=black  #SUP: 32
+binaryClass=P sons_occupation=Operative-Nonmanufacturing family_structure=nonintact  #SUP: 29
+binaryClass=P sons_occupation=Operative-Nonmanufacturing race=black  #SUP: 30
+binaryClass=P sons_occupation=Operative-Manufacturing family_structure=nonintact  #SUP: 27
+binaryClass=P sons_occupation=Operative-Manufacturing race=black  #SUP: 27
+binaryClass=P sons_occupation=Laborer-Manufacturing family_structure=nonintact  #SUP: 34
+binaryClass=P sons_occupation=Laborer-Manufacturing race=black  #SUP: 33
+binaryClass=P sons_occupation=Laborer-Nonmanufacturing family_structure=nonintact  #SUP: 32
+binaryClass=P sons_occupation=Laborer-Nonmanufacturing race=black  #SUP: 30
+binaryClass=P sons_occupation=Farmer/Farm_Manager counts_for_sons_first_occupation=0  #SUP: 33
+binaryClass=P sons_occupation=Farmer/Farm_Manager family_structure=nonintact  #SUP: 33
+binaryClass=P sons_occupation=Farmer/Farm_Manager race=black  #SUP: 34
+binaryClass=P sons_occupation=Farm_Laborer counts_for_sons_first_occupation=0  #SUP: 19
+binaryClass=P sons_occupation=Farm_Laborer family_structure=nonintact  #SUP: 34
+binaryClass=P sons_occupation=Farm_Laborer race=black  #SUP: 34
+binaryClass=P counts_for_sons_first_occupation=0 fathers_occupation=Manager  #SUP: 20
+binaryClass=P counts_for_sons_first_occupation=0 fathers_occupation=Salesman-Nonretail  #SUP: 34
+binaryClass=P counts_for_sons_first_occupation=0 fathers_occupation=Clerk  #SUP: 16
+binaryClass=P counts_for_sons_first_occupation=0 fathers_occupation=Salesman-Retail  #SUP: 28
+binaryClass=P counts_for_sons_first_occupation=0 fathers_occupation=Craftsman-Manufacturing  #SUP: 18
+binaryClass=P counts_for_sons_first_occupation=0 fathers_occupation=Craftsman-Construction  #SUP: 14
+binaryClass=P counts_for_sons_first_occupation=0 fathers_occupation=Laborer-Manufacturing  #SUP: 15
+binaryClass=P counts_for_sons_first_occupation=0 fathers_occupation=Laborer-Nonmanufacturing  #SUP: 14
+binaryClass=P counts_for_sons_first_occupation=0 fathers_occupation=Farm_Laborer  #SUP: 12
+binaryClass=P counts_for_sons_first_occupation=0 family_structure=nonintact  #SUP: 176
+binaryClass=P counts_for_sons_first_occupation=0 race=black  #SUP: 226
+binaryClass=P fathers_occupation=Professional-Salaried family_structure=nonintact  #SUP: 33
+binaryClass=P fathers_occupation=Professional-Salaried race=black  #SUP: 34
+binaryClass=P fathers_occupation=Manager family_structure=nonintact  #SUP: 34
+binaryClass=P fathers_occupation=Manager race=black  #SUP: 34
+binaryClass=P fathers_occupation=Salesman-Nonretail family_structure=nonintact  #SUP: 34
+binaryClass=P fathers_occupation=Salesman-Nonretail race=black  #SUP: 34
+binaryClass=P fathers_occupation=Proprietor family_structure=nonintact  #SUP: 34
+binaryClass=P fathers_occupation=Proprietor race=black  #SUP: 34
+binaryClass=P fathers_occupation=Clerk family_structure=nonintact  #SUP: 31
+binaryClass=P fathers_occupation=Clerk race=black  #SUP: 34
+binaryClass=P fathers_occupation=Salesman-Retail family_structure=nonintact  #SUP: 34
+binaryClass=P fathers_occupation=Salesman-Retail race=black  #SUP: 34
+binaryClass=P fathers_occupation=Craftsman-Manufacturing family_structure=nonintact  #SUP: 34
+binaryClass=P fathers_occupation=Craftsman-Manufacturing race=black  #SUP: 34
+binaryClass=P fathers_occupation=Craftsmen-Other family_structure=nonintact  #SUP: 34
+binaryClass=P fathers_occupation=Craftsmen-Other race=black  #SUP: 34
+binaryClass=P fathers_occupation=Craftsman-Construction family_structure=nonintact  #SUP: 34
+binaryClass=P fathers_occupation=Craftsman-Construction race=black  #SUP: 34
+binaryClass=P fathers_occupation=Service_Worker family_structure=nonintact  #SUP: 20
+binaryClass=P fathers_occupation=Service_Worker race=black  #SUP: 30
+binaryClass=P fathers_occupation=Operative-Nonmanufacturing family_structure=nonintact  #SUP: 30
+binaryClass=P fathers_occupation=Operative-Nonmanufacturing race=black  #SUP: 34
+binaryClass=P fathers_occupation=Operative-Manufacturing family_structure=nonintact  #SUP: 27
+binaryClass=P fathers_occupation=Operative-Manufacturing race=black  #SUP: 33
+binaryClass=P counts_for_sons_first_occupation=0.5 race=black  #SUP: 30
+binaryClass=P fathers_occupation=Laborer-Manufacturing family_structure=nonintact  #SUP: 34
+binaryClass=P fathers_occupation=Laborer-Manufacturing race=black  #SUP: 33
+binaryClass=P counts_for_sons_first_occupation=0.7 family_structure=nonintact  #SUP: 13
+binaryClass=P fathers_occupation=Laborer-Nonmanufacturing family_structure=nonintact  #SUP: 34
+binaryClass=P fathers_occupation=Laborer-Nonmanufacturing race=black  #SUP: 31
+binaryClass=P fathers_occupation=Farmer/Farm_Manager family_structure=nonintact  #SUP: 25
+binaryClass=P fathers_occupation=Farmer/Farm_Manager race=black  #SUP: 28
+binaryClass=P fathers_occupation=Farm_Laborer family_structure=nonintact  #SUP: 33
+binaryClass=P fathers_occupation=Farm_Laborer race=black  #SUP: 31
+binaryClass=P family_structure=nonintact counts_for_sons_first_occupation=0.9  #SUP: 12
+binaryClass=P family_structure=nonintact counts_for_sons_first_occupation=0.8  #SUP: 19
+binaryClass=P family_structure=nonintact counts_for_sons_first_occupation=0.6  #SUP: 14
+binaryClass=P family_structure=nonintact counts_for_sons_first_occupation=0.4  #SUP: 12
+binaryClass=P family_structure=nonintact race=black  #SUP: 284
+binaryClass=P counts_for_sons_first_occupation=0.9 race=black  #SUP: 12
+binaryClass=P counts_for_sons_first_occupation=0.6 race=black  #SUP: 23
+binaryClass=P counts_for_sons_first_occupation=0.4 race=black  #SUP: 16
+binaryClass=P counts_for_sons_first_occupation=1 race=black  #SUP: 17
+sons_occupation=Service_Worker family_structure=nonintact race=black  #SUP: 17
+sons_occupation=Operative-Nonmanufacturing family_structure=nonintact race=black  #SUP: 17
+sons_occupation=Operative-Manufacturing family_structure=nonintact race=black  #SUP: 17
+sons_occupation=Laborer-Nonmanufacturing family_structure=nonintact race=black  #SUP: 17
+fathers_occupation=Service_Worker family_structure=nonintact race=black  #SUP: 17
+fathers_occupation=Farmer/Farm_Manager family_structure=nonintact race=black  #SUP: 17
+fathers_occupation=Professional_Self-Employed family_structure=intact race=white binaryClass=P  #SUP: 14
+fathers_occupation=Professional_Self-Employed family_structure=intact binaryClass=P race=black  #SUP: 17
+fathers_occupation=Professional_Self-Employed race=white binaryClass=P family_structure=nonintact  #SUP: 17
+fathers_occupation=Professional_Self-Employed binaryClass=P counts_for_sons_first_occupation=0 family_structure=nonintact  #SUP: 19
+fathers_occupation=Professional_Self-Employed binaryClass=P counts_for_sons_first_occupation=0 race=black  #SUP: 25
+fathers_occupation=Professional_Self-Employed binaryClass=P family_structure=nonintact race=black  #SUP: 17
+sons_occupation=Professional_Self-Employed family_structure=intact binaryClass=P race=black  #SUP: 17
+sons_occupation=Professional_Self-Employed race=white binaryClass=P family_structure=nonintact  #SUP: 17
+sons_occupation=Professional_Self-Employed binaryClass=P counts_for_sons_first_occupation=0 family_structure=nonintact  #SUP: 23
+sons_occupation=Professional_Self-Employed binaryClass=P counts_for_sons_first_occupation=0 race=black  #SUP: 26
+sons_occupation=Professional_Self-Employed binaryClass=P family_structure=nonintact race=black  #SUP: 17
+family_structure=intact race=white binaryClass=N sons_occupation=Professional-Salaried  #SUP: 17
+family_structure=intact race=white binaryClass=N sons_occupation=Manager  #SUP: 17
+family_structure=intact race=white binaryClass=N sons_occupation=Salesman-Nonretail  #SUP: 13
+family_structure=intact race=white binaryClass=N sons_occupation=Clerk  #SUP: 16
+family_structure=intact race=white binaryClass=N sons_occupation=Craftsman-Manufacturing  #SUP: 15
+family_structure=intact race=white binaryClass=N sons_occupation=Craftsmen-Other  #SUP: 16
+family_structure=intact race=white binaryClass=N sons_occupation=Craftsman-Construction  #SUP: 14
+family_structure=intact race=white binaryClass=N sons_occupation=Service_Worker  #SUP: 14
+family_structure=intact race=white binaryClass=N sons_occupation=Operative-Nonmanufacturing  #SUP: 15
+family_structure=intact race=white binaryClass=N sons_occupation=Operative-Manufacturing  #SUP: 16
+family_structure=intact race=white binaryClass=N sons_occupation=Laborer-Nonmanufacturing  #SUP: 13
+family_structure=intact race=white binaryClass=N fathers_occupation=Professional-Salaried  #SUP: 13
+family_structure=intact race=white binaryClass=N fathers_occupation=Manager  #SUP: 14
+family_structure=intact race=white binaryClass=N fathers_occupation=Proprietor  #SUP: 14
+family_structure=intact race=white binaryClass=N fathers_occupation=Craftsman-Manufacturing  #SUP: 14
+family_structure=intact race=white binaryClass=N fathers_occupation=Craftsmen-Other  #SUP: 14
+family_structure=intact race=white binaryClass=N fathers_occupation=Craftsman-Construction  #SUP: 13
+family_structure=intact race=white binaryClass=N fathers_occupation=Service_Worker  #SUP: 13
+family_structure=intact race=white binaryClass=N fathers_occupation=Operative-Nonmanufacturing  #SUP: 14
+family_structure=intact race=white binaryClass=N fathers_occupation=Operative-Manufacturing  #SUP: 14
+family_structure=intact race=white binaryClass=N fathers_occupation=Farmer/Farm_Manager  #SUP: 17
+family_structure=intact race=white binaryClass=N fathers_occupation=Farm_Laborer  #SUP: 13
+family_structure=intact race=white binaryClass=P sons_occupation=Farmer/Farm_Manager  #SUP: 15
+family_structure=intact race=white binaryClass=P sons_occupation=Farm_Laborer  #SUP: 15
+family_structure=intact sons_occupation=Professional-Salaried binaryClass=P race=black  #SUP: 17
+family_structure=intact sons_occupation=Manager binaryClass=P race=black  #SUP: 17
+family_structure=intact sons_occupation=Salesman-Nonretail binaryClass=P race=black  #SUP: 17
+family_structure=intact binaryClass=P sons_occupation=Proprietor counts_for_sons_first_occupation=0  #SUP: 14
+family_structure=intact binaryClass=P sons_occupation=Proprietor race=black  #SUP: 17
+family_structure=intact binaryClass=P sons_occupation=Clerk race=black  #SUP: 17
+family_structure=intact binaryClass=P sons_occupation=Salesman-Retail race=black  #SUP: 17
+family_structure=intact binaryClass=P sons_occupation=Craftsman-Manufacturing race=black  #SUP: 17
+family_structure=intact binaryClass=P sons_occupation=Craftsmen-Other race=black  #SUP: 17
+family_structure=intact binaryClass=P sons_occupation=Craftsman-Construction race=black  #SUP: 17
+family_structure=intact binaryClass=P sons_occupation=Service_Worker race=black  #SUP: 16
+family_structure=intact binaryClass=P sons_occupation=Operative-Nonmanufacturing race=black  #SUP: 14
+family_structure=intact binaryClass=P sons_occupation=Operative-Manufacturing race=black  #SUP: 12
+family_structure=intact binaryClass=P sons_occupation=Laborer-Manufacturing race=black  #SUP: 16
+family_structure=intact binaryClass=P sons_occupation=Laborer-Nonmanufacturing race=black  #SUP: 14
+family_structure=intact binaryClass=P sons_occupation=Farmer/Farm_Manager race=black  #SUP: 17
+family_structure=intact binaryClass=P sons_occupation=Farm_Laborer race=black  #SUP: 17
+family_structure=intact binaryClass=P counts_for_sons_first_occupation=0 race=black  #SUP: 85
+family_structure=intact binaryClass=P fathers_occupation=Professional-Salaried race=black  #SUP: 17
+family_structure=intact binaryClass=P fathers_occupation=Manager race=black  #SUP: 17
+family_structure=intact binaryClass=P fathers_occupation=Salesman-Nonretail race=black  #SUP: 17
+family_structure=intact binaryClass=P fathers_occupation=Proprietor race=black  #SUP: 17
+family_structure=intact binaryClass=P fathers_occupation=Clerk race=black  #SUP: 17
+family_structure=intact binaryClass=P fathers_occupation=Salesman-Retail race=black  #SUP: 17
+family_structure=intact binaryClass=P fathers_occupation=Craftsman-Manufacturing race=black  #SUP: 17
+family_structure=intact binaryClass=P fathers_occupation=Craftsmen-Other race=black  #SUP: 17
+family_structure=intact binaryClass=P fathers_occupation=Craftsman-Construction race=black  #SUP: 17
+family_structure=intact binaryClass=P fathers_occupation=Service_Worker race=black  #SUP: 17
+family_structure=intact binaryClass=P fathers_occupation=Operative-Nonmanufacturing race=black  #SUP: 17
+family_structure=intact binaryClass=P fathers_occupation=Operative-Manufacturing race=black  #SUP: 16
+family_structure=intact binaryClass=P counts_for_sons_first_occupation=0.5 race=black  #SUP: 14
+family_structure=intact binaryClass=P fathers_occupation=Laborer-Manufacturing race=black  #SUP: 16
+family_structure=intact binaryClass=P fathers_occupation=Laborer-Nonmanufacturing race=black  #SUP: 14
+family_structure=intact binaryClass=P fathers_occupation=Farmer/Farm_Manager race=black  #SUP: 12
+family_structure=intact binaryClass=P fathers_occupation=Farm_Laborer race=black  #SUP: 14
+race=white sons_occupation=Professional-Salaried binaryClass=P family_structure=nonintact  #SUP: 13
+race=white sons_occupation=Manager binaryClass=P family_structure=nonintact  #SUP: 12
+race=white sons_occupation=Salesman-Nonretail binaryClass=P family_structure=nonintact  #SUP: 17
+race=white binaryClass=P sons_occupation=Proprietor family_structure=nonintact  #SUP: 17
+race=white binaryClass=P sons_occupation=Clerk family_structure=nonintact  #SUP: 14
+race=white binaryClass=P sons_occupation=Salesman-Retail family_structure=nonintact  #SUP: 17
+race=white binaryClass=P sons_occupation=Craftsman-Manufacturing family_structure=nonintact  #SUP: 14
+race=white binaryClass=P sons_occupation=Craftsmen-Other family_structure=nonintact  #SUP: 13
+race=white binaryClass=P sons_occupation=Craftsman-Construction family_structure=nonintact  #SUP: 15
+race=white binaryClass=P sons_occupation=Service_Worker family_structure=nonintact  #SUP: 15
+race=white binaryClass=P sons_occupation=Operative-Nonmanufacturing family_structure=nonintact  #SUP: 13
+race=white binaryClass=P sons_occupation=Operative-Manufacturing family_structure=nonintact  #SUP: 12
+race=white binaryClass=P sons_occupation=Laborer-Manufacturing family_structure=nonintact  #SUP: 17
+race=white binaryClass=P sons_occupation=Laborer-Nonmanufacturing family_structure=nonintact  #SUP: 16
+race=white binaryClass=P sons_occupation=Farmer/Farm_Manager family_structure=nonintact  #SUP: 16
+race=white binaryClass=P sons_occupation=Farm_Laborer family_structure=nonintact  #SUP: 17
+race=white binaryClass=P counts_for_sons_first_occupation=0 family_structure=nonintact  #SUP: 35
+race=white binaryClass=P fathers_occupation=Professional-Salaried family_structure=nonintact  #SUP: 16
+race=white binaryClass=P fathers_occupation=Manager family_structure=nonintact  #SUP: 17
+race=white binaryClass=P fathers_occupation=Salesman-Nonretail family_structure=nonintact  #SUP: 17
+race=white binaryClass=P fathers_occupation=Proprietor family_structure=nonintact  #SUP: 17
+race=white binaryClass=P fathers_occupation=Clerk family_structure=nonintact  #SUP: 14
+race=white binaryClass=P fathers_occupation=Salesman-Retail family_structure=nonintact  #SUP: 17
+race=white binaryClass=P fathers_occupation=Craftsman-Manufacturing family_structure=nonintact  #SUP: 17
+race=white binaryClass=P fathers_occupation=Craftsmen-Other family_structure=nonintact  #SUP: 17
+race=white binaryClass=P fathers_occupation=Craftsman-Construction family_structure=nonintact  #SUP: 17
+race=white binaryClass=P fathers_occupation=Operative-Nonmanufacturing family_structure=nonintact  #SUP: 13
+race=white binaryClass=P fathers_occupation=Laborer-Manufacturing family_structure=nonintact  #SUP: 17
+race=white binaryClass=P fathers_occupation=Laborer-Nonmanufacturing family_structure=nonintact  #SUP: 17
+race=white binaryClass=P fathers_occupation=Farm_Laborer family_structure=nonintact  #SUP: 16
+race=white binaryClass=P family_structure=nonintact counts_for_sons_first_occupation=0.8  #SUP: 14
+sons_occupation=Professional-Salaried binaryClass=P family_structure=nonintact race=black  #SUP: 17
+sons_occupation=Manager binaryClass=P counts_for_sons_first_occupation=0 race=black  #SUP: 13
+sons_occupation=Manager binaryClass=P family_structure=nonintact race=black  #SUP: 17
+sons_occupation=Salesman-Nonretail binaryClass=P counts_for_sons_first_occupation=0 family_structure=nonintact  #SUP: 16
+sons_occupation=Salesman-Nonretail binaryClass=P counts_for_sons_first_occupation=0 race=black  #SUP: 21
+sons_occupation=Salesman-Nonretail binaryClass=P family_structure=nonintact race=black  #SUP: 17
+binaryClass=P sons_occupation=Proprietor counts_for_sons_first_occupation=0 family_structure=nonintact  #SUP: 25
+binaryClass=P sons_occupation=Proprietor counts_for_sons_first_occupation=0 race=black  #SUP: 29
+binaryClass=P sons_occupation=Proprietor family_structure=nonintact race=black  #SUP: 17
+binaryClass=P sons_occupation=Clerk family_structure=nonintact race=black  #SUP: 17
+binaryClass=P sons_occupation=Salesman-Retail counts_for_sons_first_occupation=0 race=black  #SUP: 13
+binaryClass=P sons_occupation=Salesman-Retail family_structure=nonintact race=black  #SUP: 17
+binaryClass=P sons_occupation=Craftsman-Manufacturing counts_for_sons_first_occupation=0 race=black  #SUP: 13
+binaryClass=P sons_occupation=Craftsman-Manufacturing family_structure=nonintact race=black  #SUP: 17
+binaryClass=P sons_occupation=Craftsmen-Other counts_for_sons_first_occupation=0 race=black  #SUP: 13
+binaryClass=P sons_occupation=Craftsmen-Other family_structure=nonintact race=black  #SUP: 17
+binaryClass=P sons_occupation=Craftsman-Construction counts_for_sons_first_occupation=0 race=black  #SUP: 14
+binaryClass=P sons_occupation=Craftsman-Construction family_structure=nonintact race=black  #SUP: 17
+binaryClass=P sons_occupation=Service_Worker family_structure=nonintact race=black  #SUP: 16
+binaryClass=P sons_occupation=Operative-Nonmanufacturing family_structure=nonintact race=black  #SUP: 16
+binaryClass=P sons_occupation=Operative-Manufacturing family_structure=nonintact race=black  #SUP: 15
+binaryClass=P sons_occupation=Laborer-Manufacturing family_structure=nonintact race=black  #SUP: 17
+binaryClass=P sons_occupation=Laborer-Nonmanufacturing family_structure=nonintact race=black  #SUP: 16
+binaryClass=P sons_occupation=Farmer/Farm_Manager counts_for_sons_first_occupation=0 family_structure=nonintact  #SUP: 20
+binaryClass=P sons_occupation=Farmer/Farm_Manager counts_for_sons_first_occupation=0 race=black  #SUP: 26
+binaryClass=P sons_occupation=Farmer/Farm_Manager family_structure=nonintact race=black  #SUP: 17
+binaryClass=P sons_occupation=Farm_Laborer counts_for_sons_first_occupation=0 family_structure=nonintact  #SUP: 13
+binaryClass=P sons_occupation=Farm_Laborer counts_for_sons_first_occupation=0 race=black  #SUP: 15
+binaryClass=P sons_occupation=Farm_Laborer family_structure=nonintact race=black  #SUP: 17
+binaryClass=P counts_for_sons_first_occupation=0 fathers_occupation=Manager race=black  #SUP: 19
+binaryClass=P counts_for_sons_first_occupation=0 fathers_occupation=Salesman-Nonretail family_structure=nonintact  #SUP: 21
+binaryClass=P counts_for_sons_first_occupation=0 fathers_occupation=Salesman-Nonretail race=black  #SUP: 29
+binaryClass=P counts_for_sons_first_occupation=0 fathers_occupation=Proprietor race=black  #SUP: 16
+binaryClass=P counts_for_sons_first_occupation=0 fathers_occupation=Clerk race=black  #SUP: 15
+binaryClass=P counts_for_sons_first_occupation=0 fathers_occupation=Salesman-Retail family_structure=nonintact  #SUP: 17
+binaryClass=P counts_for_sons_first_occupation=0 fathers_occupation=Salesman-Retail race=black  #SUP: 24
+binaryClass=P counts_for_sons_first_occupation=0 fathers_occupation=Craftsman-Manufacturing family_structure=nonintact  #SUP: 13
+binaryClass=P counts_for_sons_first_occupation=0 fathers_occupation=Craftsman-Manufacturing race=black  #SUP: 16
+binaryClass=P counts_for_sons_first_occupation=0 fathers_occupation=Craftsman-Construction race=black  #SUP: 12
+binaryClass=P counts_for_sons_first_occupation=0 fathers_occupation=Laborer-Manufacturing family_structure=nonintact  #SUP: 12
+binaryClass=P counts_for_sons_first_occupation=0 family_structure=nonintact race=black  #SUP: 141
+binaryClass=P fathers_occupation=Professional-Salaried family_structure=nonintact race=black  #SUP: 17
+binaryClass=P fathers_occupation=Manager family_structure=nonintact race=black  #SUP: 17
+binaryClass=P fathers_occupation=Salesman-Nonretail family_structure=nonintact race=black  #SUP: 17
+binaryClass=P fathers_occupation=Proprietor family_structure=nonintact race=black  #SUP: 17
+binaryClass=P fathers_occupation=Clerk family_structure=nonintact race=black  #SUP: 17
+binaryClass=P fathers_occupation=Salesman-Retail family_structure=nonintact race=black  #SUP: 17
+binaryClass=P fathers_occupation=Craftsman-Manufacturing family_structure=nonintact race=black  #SUP: 17
+binaryClass=P fathers_occupation=Craftsmen-Other family_structure=nonintact race=black  #SUP: 17
+binaryClass=P fathers_occupation=Craftsman-Construction family_structure=nonintact race=black  #SUP: 17
+binaryClass=P fathers_occupation=Service_Worker family_structure=nonintact race=black  #SUP: 13
+binaryClass=P fathers_occupation=Operative-Nonmanufacturing family_structure=nonintact race=black  #SUP: 17
+binaryClass=P fathers_occupation=Operative-Manufacturing family_structure=nonintact race=black  #SUP: 17
+binaryClass=P counts_for_sons_first_occupation=0.5 family_structure=nonintact race=black  #SUP: 16
+binaryClass=P fathers_occupation=Laborer-Manufacturing family_structure=nonintact race=black  #SUP: 17
+binaryClass=P fathers_occupation=Laborer-Nonmanufacturing family_structure=nonintact race=black  #SUP: 17
+binaryClass=P fathers_occupation=Farmer/Farm_Manager family_structure=nonintact race=black  #SUP: 16
+binaryClass=P fathers_occupation=Farm_Laborer family_structure=nonintact race=black  #SUP: 17
+binaryClass=P family_structure=nonintact counts_for_sons_first_occupation=0.6 race=black  #SUP: 12
+fathers_occupation=Professional_Self-Employed binaryClass=P counts_for_sons_first_occupation=0 family_structure=nonintact race=black  #SUP: 15
+sons_occupation=Professional_Self-Employed family_structure=intact binaryClass=P counts_for_sons_first_occupation=0 race=black  #SUP: 12
+sons_occupation=Professional_Self-Employed binaryClass=P counts_for_sons_first_occupation=0 family_structure=nonintact race=black  #SUP: 14
+family_structure=intact binaryClass=P sons_occupation=Proprietor counts_for_sons_first_occupation=0 race=black  #SUP: 13
+family_structure=intact binaryClass=P sons_occupation=Farmer/Farm_Manager counts_for_sons_first_occupation=0 race=black  #SUP: 13
+family_structure=intact binaryClass=P counts_for_sons_first_occupation=0 fathers_occupation=Salesman-Nonretail race=black  #SUP: 13
+sons_occupation=Salesman-Nonretail binaryClass=P counts_for_sons_first_occupation=0 family_structure=nonintact race=black  #SUP: 14
+binaryClass=P sons_occupation=Proprietor counts_for_sons_first_occupation=0 family_structure=nonintact race=black  #SUP: 16
+binaryClass=P sons_occupation=Farmer/Farm_Manager counts_for_sons_first_occupation=0 family_structure=nonintact race=black  #SUP: 13
+binaryClass=P counts_for_sons_first_occupation=0 fathers_occupation=Salesman-Nonretail family_structure=nonintact race=black  #SUP: 16
+binaryClass=P counts_for_sons_first_occupation=0 fathers_occupation=Salesman-Retail family_structure=nonintact race=black  #SUP: 13

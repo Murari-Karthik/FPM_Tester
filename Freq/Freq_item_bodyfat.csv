@@ -1,0 +1,687 @@
+Height=67.75 #SUP: 8
+Neck=36.2 #SUP: 3
+Knee=37.3 #SUP: 7
+Ankle=21.9 #SUP: 8
+Biceps=32 #SUP: 3
+Forearm=27.4 #SUP: 7
+Wrist=17.1 #SUP: 6
+binaryClass=P #SUP: 124
+Height=72.25 #SUP: 12
+Neck=38.5 #SUP: 12
+Hip=98.7 #SUP: 3
+Ankle=23.4 #SUP: 8
+Biceps=30.5 #SUP: 7
+Forearm=28.9 #SUP: 4
+Wrist=18.2 #SUP: 13
+Neck=34 #SUP: 3
+Hip=99.2 #SUP: 3
+Knee=38.9 #SUP: 4
+Ankle=24 #SUP: 8
+Biceps=28.8 #SUP: 4
+Forearm=25.2 #SUP: 3
+binaryClass=N #SUP: 128
+Age=26 #SUP: 6
+Neck=37.4 #SUP: 8
+Chest=101.8 #SUP: 3
+Ankle=22.8 #SUP: 5
+Biceps=32.4 #SUP: 4
+Forearm=29.4 #SUP: 4
+Age=24 #SUP: 4
+Weight=184.25 #SUP: 3
+Height=71.25 #SUP: 7
+Biceps=32.2 #SUP: 3
+Forearm=27.7 #SUP: 5
+Wrist=17.7 #SUP: 15
+Forearm=30.6 #SUP: 3
+Wrist=18.8 #SUP: 18
+Height=69.75 #SUP: 9
+Neck=36.4 #SUP: 5
+Thigh=58.4 #SUP: 4
+Knee=38.3 #SUP: 7
+Ankle=22.9 #SUP: 7
+Forearm=27.8 #SUP: 5
+Age=25 #SUP: 4
+Height=72.5 #SUP: 5
+Neck=37.8 #SUP: 7
+Hip=97.1 #SUP: 3
+Thigh=60 #SUP: 4
+Knee=39.4 #SUP: 6
+Ankle=23.2 #SUP: 9
+Forearm=29 #SUP: 5
+Height=74 #SUP: 4
+Neck=38.1 #SUP: 4
+Ankle=23.8 #SUP: 5
+Biceps=35.9 #SUP: 3
+Forearm=31.1 #SUP: 4
+Height=73.5 #SUP: 7
+Neck=42.1 #SUP: 5
+Hip=104.1 #SUP: 3
+Ankle=25 #SUP: 4
+Biceps=35.6 #SUP: 4
+Forearm=30 #SUP: 6
+Wrist=19.2 #SUP: 6
+Height=74.5 #SUP: 6
+Ankle=25.2 #SUP: 4
+Wrist=18.5 #SUP: 16
+Age=27 #SUP: 7
+Neck=39.4 #SUP: 5
+Knee=39.2 #SUP: 5
+Biceps=37.2 #SUP: 4
+Forearm=30.2 #SUP: 3
+Wrist=19 #SUP: 10
+Age=32 #SUP: 4
+Height=69.5 #SUP: 12
+Thigh=63.4 #SUP: 3
+Ankle=21.5 #SUP: 8
+Biceps=32.5 #SUP: 5
+Forearm=28.6 #SUP: 4
+Age=35 #SUP: 10
+Knee=39 #SUP: 9
+Ankle=23.1 #SUP: 5
+Forearm=30.5 #SUP: 4
+Chest=99.1 #SUP: 5
+Knee=38.7 #SUP: 6
+Ankle=21.7 #SUP: 4
+Forearm=26.4 #SUP: 3
+Wrist=16.9 #SUP: 9
+Age=34 #SUP: 4
+Wrist=17.3 #SUP: 9
+Knee=40 #SUP: 6
+Age=28 #SUP: 7
+Neck=38 #SUP: 10
+Neck=40 #SUP: 3
+Abdomen=100.5 #SUP: 4
+Knee=40.6 #SUP: 4
+Forearm=30.1 #SUP: 6
+Height=68 #SUP: 6
+Neck=39.1 #SUP: 3
+Thigh=63.5 #SUP: 4
+Knee=38 #SUP: 7
+Ankle=22.1 #SUP: 7
+Forearm=30.3 #SUP: 5
+Wrist=18.4 #SUP: 14
+Ankle=24.6 #SUP: 8
+Wrist=19.9 #SUP: 3
+Age=31 #SUP: 4
+Height=68.25 #SUP: 7
+Ankle=22.2 #SUP: 4
+Biceps=27.9 #SUP: 4
+Height=70 #SUP: 10
+Neck=35.5 #SUP: 6
+Forearm=26.7 #SUP: 3
+Forearm=28 #SUP: 5
+Wrist=17.6 #SUP: 10
+Height=71.5 #SUP: 14
+Thigh=55 #SUP: 3
+Ankle=22.5 #SUP: 11
+Biceps=29.9 #SUP: 3
+Forearm=28.2 #SUP: 5
+Height=67.5 #SUP: 11
+Ankle=21.4 #SUP: 4
+Chest=97.4 #SUP: 3
+Abdomen=88.7 #SUP: 4
+Thigh=57.5 #SUP: 5
+Ankle=21 #SUP: 6
+Biceps=29.2 #SUP: 3
+Forearm=26.6 #SUP: 3
+Wrist=17 #SUP: 4
+Chest=93.5 #SUP: 3
+Forearm=27.9 #SUP: 4
+Wrist=17.2 #SUP: 4
+Height=69 #SUP: 5
+Thigh=58.9 #SUP: 7
+Ankle=22.6 #SUP: 11
+Biceps=30.1 #SUP: 5
+Height=73.75 #SUP: 4
+Neck=38.7 #SUP: 7
+Neck=37.3 #SUP: 3
+Hip=100.6 #SUP: 6
+Thigh=58.5 #SUP: 5
+Knee=38.8 #SUP: 5
+Wrist=17.9 #SUP: 6
+Weight=168 #SUP: 3
+Ankle=24.5 #SUP: 4
+Age=41 #SUP: 10
+Wrist=18.7 #SUP: 8
+Wrist=19.7 #SUP: 3
+Age=49 #SUP: 9
+Forearm=29.8 #SUP: 9
+Age=40 #SUP: 17
+Biceps=35.1 #SUP: 4
+Age=50 #SUP: 7
+Chest=105.6 #SUP: 3
+Ankle=24.7 #SUP: 7
+Wrist=19.4 #SUP: 5
+Age=46 #SUP: 6
+Height=67 #SUP: 5
+Hip=102.5 #SUP: 4
+Wrist=18.3 #SUP: 11
+Height=68.75 #SUP: 7
+Knee=39.6 #SUP: 4
+Age=44 #SUP: 9
+Forearm=28.7 #SUP: 5
+Wrist=17.4 #SUP: 12
+Age=48 #SUP: 5
+Knee=40.9 #SUP: 3
+Knee=40.2 #SUP: 3
+Ankle=23 #SUP: 6
+Age=39 #SUP: 5
+Age=43 #SUP: 13
+Height=73.25 #SUP: 5
+Knee=38.2 #SUP: 5
+Biceps=29.7 #SUP: 3
+Forearm=26.2 #SUP: 4
+Knee=37.5 #SUP: 4
+Forearm=26.8 #SUP: 3
+Height=68.5 #SUP: 7
+Age=47 #SUP: 11
+Height=66.75 #SUP: 4
+Hip=98.3 #SUP: 7
+Ankle=22.4 #SUP: 8
+Age=51 #SUP: 5
+Neck=36.5 #SUP: 7
+Biceps=29.6 #SUP: 3
+Knee=37.6 #SUP: 4
+Age=42 #SUP: 12
+Forearm=27.5 #SUP: 5
+Age=54 #SUP: 8
+Height=72 #SUP: 7
+Hip=99.6 #SUP: 3
+Ankle=22 #SUP: 11
+Wrist=18.9 #SUP: 3
+Age=58 #SUP: 3
+Thigh=62.1 #SUP: 3
+Forearm=28.3 #SUP: 5
+Age=62 #SUP: 5
+Knee=39.8 #SUP: 4
+Ankle=22.7 #SUP: 9
+Height=70.75 #SUP: 6
+Thigh=59.1 #SUP: 4
+Biceps=31.6 #SUP: 7
+Forearm=28.8 #SUP: 4
+Age=61 #SUP: 4
+Weight=179.75 #SUP: 3
+Height=65.75 #SUP: 6
+Thigh=60.6 #SUP: 4
+Knee=37.7 #SUP: 3
+Forearm=29.6 #SUP: 9
+Age=56 #SUP: 4
+Neck=35.6 #SUP: 3
+Height=70.25 #SUP: 6
+Ankle=23.6 #SUP: 4
+Biceps=32.7 #SUP: 3
+Forearm=29.9 #SUP: 3
+Wrist=19.1 #SUP: 7
+Age=57 #SUP: 4
+Age=55 #SUP: 10
+Knee=36.1 #SUP: 4
+Thigh=54.3 #SUP: 4
+Height=69.25 #SUP: 12
+Neck=37.5 #SUP: 5
+Hip=96.1 #SUP: 3
+Thigh=56 #SUP: 5
+Biceps=32.6 #SUP: 3
+Wrist=18.1 #SUP: 9
+Neck=36.3 #SUP: 5
+Ankle=21.6 #SUP: 3
+Knee=38.6 #SUP: 4
+Forearm=27.3 #SUP: 9
+Wrist=18.6 #SUP: 6
+Forearm=25.7 #SUP: 4
+Thigh=55.5 #SUP: 3
+Biceps=29.4 #SUP: 4
+Biceps=30.2 #SUP: 3
+Forearm=29.2 #SUP: 7
+Ankle=21.8 #SUP: 10
+Biceps=30.8 #SUP: 3
+Hip=99.3 #SUP: 5
+Biceps=31.4 #SUP: 5
+Chest=102.7 #SUP: 5
+Abdomen=98.6 #SUP: 3
+Knee=39.3 #SUP: 4
+Forearm=27.2 #SUP: 4
+Age=64 #SUP: 4
+Height=67.25 #SUP: 6
+Hip=96.9 #SUP: 3
+Height=72.75 #SUP: 6
+Knee=36.5 #SUP: 4
+Ankle=24.1 #SUP: 6
+Age=72 #SUP: 5
+Hip=96.2 #SUP: 5
+Knee=36.6 #SUP: 3
+Forearm=26.3 #SUP: 6
+Wrist=18 #SUP: 6
+Weight=167 #SUP: 3
+Chest=98.9 #SUP: 4
+Abdomen=89.7 #SUP: 4
+Thigh=54.7 #SUP: 5
+Knee=37.8 #SUP: 3
+Neck=37.7 #SUP: 4
+Ankle=23.3 #SUP: 4
+Forearm=28.4 #SUP: 6
+Knee=38.4 #SUP: 6
+Forearm=29.3 #SUP: 5
+Height=73 #SUP: 4
+Neck=37.2 #SUP: 3
+Abdomen=95.6 #SUP: 3
+Height=70.5 #SUP: 7
+Height=71.75 #SUP: 6
+Biceps=32.9 #SUP: 4
+Ankle=22.3 #SUP: 7
+Neck=37 #SUP: 4
+Thigh=59.3 #SUP: 5
+Weight=172.75 #SUP: 3
+Biceps=31 #SUP: 5
+Neck=40.7 #SUP: 4
+Chest=104 #SUP: 3
+Ankle=24.8 #SUP: 5
+Thigh=61.2 #SUP: 3
+Ankle=23.5 #SUP: 4
+Forearm=28.5 #SUP: 3
+Age=52 #SUP: 4
+Height=74.25 #SUP: 5
+Forearm=30.7 #SUP: 4
+Chest=97.8 #SUP: 4
+Knee=36.8 #SUP: 3
+Biceps=32.1 #SUP: 4
+Biceps=33.5 #SUP: 4
+Knee=38.1 #SUP: 7
+Neck=35.3 #SUP: 3
+Biceps=31.8 #SUP: 3
+Thigh=56.8 #SUP: 3
+Biceps=33.4 #SUP: 3
+Wrist=19.5 #SUP: 4
+Neck=38.3 #SUP: 5
+Thigh=57.1 #SUP: 4
+Biceps=34.4 #SUP: 3
+Hip=94 #SUP: 3
+Thigh=60.7 #SUP: 3
+Hip=97.8 #SUP: 3
+Knee=36.9 #SUP: 3
+Abdomen=90.3 #SUP: 3
+Knee=38.5 #SUP: 3
+Biceps=34 #SUP: 3
+Biceps=30.9 #SUP: 3
+Chest=92.9 #SUP: 3
+Hip=95.6 #SUP: 3
+Biceps=31.7 #SUP: 4
+Forearm=29.7 #SUP: 3
+Neck=35.2 #SUP: 4
+Knee=35.7 #SUP: 3
+Neck=37.9 #SUP: 4
+Biceps=31.3 #SUP: 4
+Thigh=63.3 #SUP: 3
+Age=37 #SUP: 3
+Age=65 #SUP: 3
+Age=23 binaryClass=P  #SUP: 4
+Height=67.75 binaryClass=P  #SUP: 6
+Hip=94.5 binaryClass=P  #SUP: 4
+Knee=37.3 binaryClass=P  #SUP: 5
+Ankle=21.9 binaryClass=P  #SUP: 5
+Ankle=21.9 binaryClass=N  #SUP: 3
+Forearm=27.4 binaryClass=P  #SUP: 5
+Wrist=17.1 binaryClass=P  #SUP: 3
+Wrist=17.1 binaryClass=N  #SUP: 3
+binaryClass=P Height=72.25  #SUP: 8
+binaryClass=P Neck=38.5  #SUP: 5
+binaryClass=P Ankle=23.4  #SUP: 5
+binaryClass=P Biceps=30.5  #SUP: 5
+binaryClass=P Forearm=28.9  #SUP: 3
+binaryClass=P Wrist=18.2  #SUP: 9
+binaryClass=P Biceps=28.8  #SUP: 3
+binaryClass=P Age=26  #SUP: 3
+binaryClass=P Neck=37.4  #SUP: 4
+binaryClass=P Ankle=22.8  #SUP: 3
+binaryClass=P Biceps=32.4  #SUP: 3
+binaryClass=P Forearm=29.4  #SUP: 3
+binaryClass=P Height=71.25  #SUP: 3
+binaryClass=P Wrist=17.7  #SUP: 6
+binaryClass=P Wrist=18.8  #SUP: 8
+binaryClass=P Height=69.75  #SUP: 4
+binaryClass=P Neck=36.4  #SUP: 3
+binaryClass=P Thigh=58.4  #SUP: 3
+binaryClass=P Ankle=22.9  #SUP: 3
+binaryClass=P Forearm=27.8  #SUP: 3
+binaryClass=P Age=25  #SUP: 3
+binaryClass=P Height=72.5  #SUP: 3
+binaryClass=P Neck=37.8  #SUP: 3
+binaryClass=P Chest=99.6  #SUP: 4
+binaryClass=P Thigh=60  #SUP: 3
+binaryClass=P Knee=39.4  #SUP: 3
+binaryClass=P Ankle=23.2  #SUP: 5
+binaryClass=P Neck=38.1  #SUP: 3
+binaryClass=P Ankle=23.8  #SUP: 4
+binaryClass=P Height=73.5  #SUP: 3
+binaryClass=P Ankle=25  #SUP: 3
+binaryClass=P Forearm=30  #SUP: 4
+binaryClass=P Wrist=19.2  #SUP: 3
+binaryClass=P Height=74.5  #SUP: 3
+binaryClass=P Abdomen=83.6  #SUP: 3
+binaryClass=P Knee=39.7  #SUP: 4
+binaryClass=P Wrist=18.5  #SUP: 8
+binaryClass=P Age=27  #SUP: 6
+binaryClass=P Neck=39.4  #SUP: 3
+binaryClass=P Knee=39.2  #SUP: 3
+binaryClass=P Wrist=19  #SUP: 6
+binaryClass=P Height=69.5  #SUP: 6
+binaryClass=P Ankle=21.5  #SUP: 5
+binaryClass=P Biceps=32.5  #SUP: 3
+binaryClass=P Age=35  #SUP: 3
+binaryClass=P Knee=39  #SUP: 4
+binaryClass=P Knee=38.7  #SUP: 5
+binaryClass=P Wrist=16.9  #SUP: 8
+binaryClass=P Wrist=17.3  #SUP: 5
+binaryClass=P Age=28  #SUP: 6
+binaryClass=P Neck=38  #SUP: 5
+binaryClass=P Density=1.061  #SUP: 4
+binaryClass=P Age=33  #SUP: 3
+binaryClass=P Knee=40.6  #SUP: 3
+binaryClass=P Forearm=30.1  #SUP: 4
+binaryClass=P Height=68  #SUP: 4
+binaryClass=P Ankle=22.1  #SUP: 6
+binaryClass=P Wrist=18.4  #SUP: 4
+binaryClass=P Height=68.25  #SUP: 3
+binaryClass=P Thigh=57.4  #SUP: 4
+binaryClass=P Ankle=22.2  #SUP: 3
+binaryClass=P Biceps=27.9  #SUP: 3
+binaryClass=P Forearm=25.9  #SUP: 3
+binaryClass=P Neck=35.5  #SUP: 4
+binaryClass=P Knee=36.2  #SUP: 6
+binaryClass=P Biceps=29.8  #SUP: 3
+binaryClass=P Forearm=28  #SUP: 4
+binaryClass=P Wrist=17.6  #SUP: 7
+binaryClass=P Height=71.5  #SUP: 8
+binaryClass=P Neck=35.7  #SUP: 3
+binaryClass=P Ankle=22.5  #SUP: 7
+binaryClass=P Forearm=28.2  #SUP: 3
+binaryClass=P Height=67.5  #SUP: 6
+binaryClass=P Ankle=21.4  #SUP: 3
+binaryClass=P Forearm=27  #SUP: 4
+binaryClass=P Wrist=16.5  #SUP: 5
+binaryClass=P Abdomen=88.7  #SUP: 3
+binaryClass=P Thigh=57.5  #SUP: 3
+binaryClass=P Ankle=21  #SUP: 3
+binaryClass=P Wrist=17.2  #SUP: 3
+binaryClass=P Height=69  #SUP: 3
+binaryClass=P Thigh=58.9  #SUP: 4
+binaryClass=P Ankle=22.6  #SUP: 8
+binaryClass=P Biceps=30.1  #SUP: 3
+binaryClass=P Neck=38.7  #SUP: 5
+binaryClass=P Thigh=58.5  #SUP: 3
+binaryClass=P Knee=38.8  #SUP: 3
+binaryClass=P Wrist=17.9  #SUP: 4
+binaryClass=P Thigh=57.3  #SUP: 3
+binaryClass=P Wrist=18.7  #SUP: 3
+binaryClass=P Age=49  #SUP: 3
+binaryClass=P Age=40  #SUP: 10
+binaryClass=P Age=50  #SUP: 3
+binaryClass=P Age=46  #SUP: 3
+binaryClass=P Height=67  #SUP: 3
+binaryClass=P Wrist=18.3  #SUP: 6
+binaryClass=P Height=68.75  #SUP: 5
+binaryClass=P Age=44  #SUP: 4
+binaryClass=P Wrist=17.4  #SUP: 5
+binaryClass=P Age=39  #SUP: 3
+binaryClass=P Age=43  #SUP: 5
+binaryClass=P Knee=38.2  #SUP: 3
+binaryClass=P Forearm=26.2  #SUP: 3
+binaryClass=P Knee=37.5  #SUP: 3
+binaryClass=P Height=68.5  #SUP: 3
+binaryClass=P Chest=92.3  #SUP: 3
+binaryClass=P Age=47  #SUP: 7
+binaryClass=P Height=66.75  #SUP: 3
+binaryClass=P Hip=98.3  #SUP: 3
+binaryClass=P Ankle=22.4  #SUP: 3
+binaryClass=P Chest=89.2  #SUP: 3
+binaryClass=P Age=51  #SUP: 4
+binaryClass=P Neck=36.5  #SUP: 4
+binaryClass=P Knee=37.6  #SUP: 3
+binaryClass=P Age=42  #SUP: 5
+binaryClass=P Forearm=27.5  #SUP: 4
+binaryClass=P Age=54  #SUP: 3
+binaryClass=P Ankle=22  #SUP: 6
+binaryClass=P Forearm=28.3  #SUP: 3
+binaryClass=P Ankle=22.7  #SUP: 4
+binaryClass=P Height=70.75  #SUP: 3
+binaryClass=P Biceps=31.6  #SUP: 5
+binaryClass=P Height=65.75  #SUP: 3
+binaryClass=P Thigh=60.6  #SUP: 3
+binaryClass=P Forearm=29.6  #SUP: 4
+binaryClass=P Age=56  #SUP: 3
+binaryClass=P Age=57  #SUP: 3
+binaryClass=P Age=55  #SUP: 8
+binaryClass=P Neck=36.9  #SUP: 4
+binaryClass=P Thigh=54.3  #SUP: 3
+binaryClass=P Height=69.25  #SUP: 7
+binaryClass=P Neck=37.5  #SUP: 4
+binaryClass=P Knee=37.4  #SUP: 4
+binaryClass=P Neck=36.3  #SUP: 3
+binaryClass=P Forearm=27.3  #SUP: 5
+binaryClass=P Wrist=18.6  #SUP: 3
+binaryClass=P Abdomen=82.8  #SUP: 3
+binaryClass=P Biceps=30.3  #SUP: 4
+binaryClass=P Forearm=25.7  #SUP: 3
+binaryClass=P Neck=36  #SUP: 4
+binaryClass=P Forearm=29.2  #SUP: 4
+binaryClass=P Ankle=21.8  #SUP: 5
+binaryClass=P Biceps=31.4  #SUP: 4
+binaryClass=P Height=67.25  #SUP: 4
+binaryClass=P Knee=36.5  #SUP: 3
+binaryClass=P Forearm=26.3  #SUP: 5
+binaryClass=P Wrist=18  #SUP: 3
+binaryClass=P Chest=98.9  #SUP: 3
+binaryClass=P Thigh=54.7  #SUP: 4
+binaryClass=P Neck=37.7  #SUP: 3
+binaryClass=P Forearm=28.4  #SUP: 3
+binaryClass=P Forearm=29.3  #SUP: 3
+binaryClass=P Height=73  #SUP: 3
+binaryClass=P Height=70.5  #SUP: 4
+binaryClass=P Wrist=17.8  #SUP: 6
+binaryClass=P Biceps=32.9  #SUP: 3
+binaryClass=P Biceps=30.6  #SUP: 4
+binaryClass=P Chest=94  #SUP: 4
+binaryClass=P Weight=152.25  #SUP: 3
+binaryClass=P Neck=35.2  #SUP: 3
+binaryClass=P Neck=37.9  #SUP: 3
+binaryClass=P Knee=34.8  #SUP: 4
+binaryClass=P Neck=37.6  #SUP: 3
+Height=72.25 binaryClass=N  #SUP: 4
+Neck=38.5 binaryClass=N  #SUP: 7
+Neck=38.5 Wrist=19.1  #SUP: 3
+Ankle=23.4 binaryClass=N  #SUP: 3
+Wrist=18.2 binaryClass=N  #SUP: 4
+Density=1.0414 binaryClass=N  #SUP: 3
+Ankle=24 binaryClass=N  #SUP: 6
+binaryClass=N Age=26  #SUP: 3
+binaryClass=N Neck=37.4  #SUP: 4
+binaryClass=N Age=24  #SUP: 3
+binaryClass=N Height=71.25  #SUP: 4
+binaryClass=N Abdomen=100  #SUP: 3
+binaryClass=N Forearm=27.7  #SUP: 3
+binaryClass=N Wrist=17.7  #SUP: 9
+binaryClass=N Thigh=66  #SUP: 3
+binaryClass=N Wrist=18.8  #SUP: 10
+binaryClass=N Height=69.75  #SUP: 5
+binaryClass=N Knee=38.3  #SUP: 5
+binaryClass=N Ankle=22.9  #SUP: 4
+binaryClass=N Neck=37.8  #SUP: 4
+binaryClass=N Knee=39.4  #SUP: 3
+binaryClass=N Ankle=23.2  #SUP: 4
+binaryClass=N Forearm=29  #SUP: 3
+binaryClass=N Height=73.5  #SUP: 4
+binaryClass=N Neck=42.1  #SUP: 4
+binaryClass=N Wrist=19.2  #SUP: 3
+binaryClass=N Height=74.5  #SUP: 3
+binaryClass=N Ankle=25.2  #SUP: 3
+binaryClass=N Wrist=18.5  #SUP: 8
+binaryClass=N Wrist=19  #SUP: 4
+binaryClass=N Height=69.5  #SUP: 6
+binaryClass=N Neck=38.4  #SUP: 5
+binaryClass=N Chest=102  #SUP: 3
+binaryClass=N Ankle=21.5  #SUP: 3
+binaryClass=N Forearm=28.6  #SUP: 3
+binaryClass=N Ankle=23.7  #SUP: 4
+binaryClass=N Forearm=31.6  #SUP: 3
+binaryClass=N Density=1.0484  #SUP: 3
+binaryClass=N Age=35  #SUP: 7
+binaryClass=N Neck=40.5  #SUP: 4
+binaryClass=N Knee=39  #SUP: 5
+binaryClass=N Ankle=23.1  #SUP: 3
+binaryClass=N Biceps=36.1  #SUP: 3
+binaryClass=N Forearm=30.5  #SUP: 3
+binaryClass=N Chest=99.1  #SUP: 3
+binaryClass=N Height=71  #SUP: 5
+binaryClass=N Neck=38.9  #SUP: 4
+binaryClass=N Thigh=64.8  #SUP: 3
+binaryClass=N Knee=40.8  #SUP: 3
+binaryClass=N Wrist=17.3  #SUP: 4
+binaryClass=N Chest=107.6  #SUP: 3
+binaryClass=N Knee=40  #SUP: 4
+binaryClass=N Neck=38  #SUP: 5
+binaryClass=N Abdomen=100.5  #SUP: 3
+binaryClass=N Thigh=63.5  #SUP: 3
+binaryClass=N Knee=38  #SUP: 5
+binaryClass=N Forearm=30.3  #SUP: 4
+binaryClass=N Wrist=18.4  #SUP: 10
+binaryClass=N Ankle=24.6  #SUP: 6
+binaryClass=N Height=68.25  #SUP: 4
+binaryClass=N Height=70  #SUP: 8
+binaryClass=N Wrist=17.6  #SUP: 3
+binaryClass=N Height=71.5  #SUP: 6
+binaryClass=N Ankle=22.5  #SUP: 4
+binaryClass=N Height=67.5  #SUP: 5
+binaryClass=N Ankle=21  #SUP: 3
+binaryClass=N Wrist=17  #SUP: 3
+binaryClass=N Thigh=58.9  #SUP: 3
+binaryClass=N Ankle=22.6  #SUP: 3
+binaryClass=N Hip=100.6  #SUP: 4
+binaryClass=N Age=41  #SUP: 9
+binaryClass=N Wrist=18.7  #SUP: 5
+binaryClass=N Age=49  #SUP: 6
+binaryClass=N Forearm=29.8  #SUP: 7
+binaryClass=N Age=40  #SUP: 7
+binaryClass=N Age=50  #SUP: 4
+binaryClass=N Ankle=24.7  #SUP: 6
+binaryClass=N Wrist=19.4  #SUP: 4
+binaryClass=N Age=46  #SUP: 3
+binaryClass=N Neck=40.2  #SUP: 5
+binaryClass=N Knee=41.1  #SUP: 3
+binaryClass=N Forearm=31  #SUP: 3
+binaryClass=N Wrist=18.3  #SUP: 5
+binaryClass=N Knee=39.6  #SUP: 3
+binaryClass=N Biceps=36.4  #SUP: 3
+binaryClass=N Age=44  #SUP: 5
+binaryClass=N Biceps=33.6  #SUP: 4
+binaryClass=N Forearm=28.7  #SUP: 4
+binaryClass=N Wrist=17.4  #SUP: 7
+binaryClass=N Age=48  #SUP: 4
+binaryClass=N Ankle=23  #SUP: 5
+binaryClass=N Age=43  #SUP: 8
+binaryClass=N Height=73.25  #SUP: 3
+binaryClass=N Height=68.5  #SUP: 4
+binaryClass=N Age=47  #SUP: 4
+binaryClass=N Hip=98.3  #SUP: 4
+binaryClass=N Ankle=22.4  #SUP: 5
+binaryClass=N Neck=36.5  #SUP: 3
+binaryClass=N Age=42  #SUP: 7
+binaryClass=N Age=54  #SUP: 5
+binaryClass=N Height=72  #SUP: 6
+binaryClass=N Ankle=22  #SUP: 5
+binaryClass=N Density=1.0524  #SUP: 3
+binaryClass=N Abdomen=99.8  #SUP: 3
+binaryClass=N Age=62  #SUP: 4
+binaryClass=N Knee=39.8  #SUP: 3
+binaryClass=N Ankle=22.7  #SUP: 5
+binaryClass=N Height=70.75  #SUP: 3
+binaryClass=N Thigh=59.1  #SUP: 3
+binaryClass=N Forearm=28.8  #SUP: 3
+binaryClass=N Height=65.75  #SUP: 3
+binaryClass=N Forearm=29.6  #SUP: 5
+binaryClass=N Forearm=31.8  #SUP: 3
+binaryClass=N Height=70.25  #SUP: 4
+binaryClass=N Ankle=23.6  #SUP: 3
+binaryClass=N Wrist=19.1  #SUP: 5
+binaryClass=N Chest=105.3  #SUP: 3
+binaryClass=N Biceps=35.3  #SUP: 4
+binaryClass=N Neck=40.9  #SUP: 4
+binaryClass=N Biceps=34.8  #SUP: 3
+binaryClass=N Knee=36.1  #SUP: 3
+binaryClass=N Height=69.25  #SUP: 5
+binaryClass=N Thigh=56  #SUP: 3
+binaryClass=N Wrist=18.1  #SUP: 7
+binaryClass=N Forearm=27.3  #SUP: 4
+binaryClass=N Wrist=18.6  #SUP: 3
+binaryClass=N Forearm=29.2  #SUP: 3
+binaryClass=N Abdomen=95  #SUP: 3
+binaryClass=N Ankle=21.8  #SUP: 5
+binaryClass=N Hip=99.3  #SUP: 3
+binaryClass=N Chest=102.7  #SUP: 3
+binaryClass=N Age=67  #SUP: 4
+binaryClass=N Forearm=27.2  #SUP: 3
+binaryClass=N Height=72.75  #SUP: 4
+binaryClass=N Weight=170.75  #SUP: 3
+binaryClass=N Ankle=24.1  #SUP: 5
+binaryClass=N Biceps=31.2  #SUP: 3
+binaryClass=N Age=72  #SUP: 4
+binaryClass=N Hip=96.2  #SUP: 3
+binaryClass=N Wrist=18  #SUP: 3
+binaryClass=N Abdomen=89.7  #SUP: 3
+binaryClass=N Forearm=28.4  #SUP: 3
+binaryClass=N Knee=38.4  #SUP: 5
+binaryClass=N Height=70.5  #SUP: 3
+binaryClass=N Height=71.75  #SUP: 5
+binaryClass=N Biceps=33.3  #SUP: 4
+binaryClass=N Ankle=22.3  #SUP: 5
+binaryClass=N Hip=101.7  #SUP: 3
+binaryClass=N Thigh=59.3  #SUP: 4
+binaryClass=N Biceps=31  #SUP: 3
+binaryClass=N Hip=101.6  #SUP: 3
+binaryClass=N Ankle=24.8  #SUP: 3
+binaryClass=N Age=52  #SUP: 3
+binaryClass=N Height=74.25  #SUP: 3
+binaryClass=N Forearm=30.7  #SUP: 3
+binaryClass=N Chest=97.8  #SUP: 3
+binaryClass=N Biceps=32.1  #SUP: 3
+binaryClass=N Abdomen=105  #SUP: 3
+binaryClass=N Thigh=63.7  #SUP: 3
+binaryClass=N Knee=38.1  #SUP: 5
+binaryClass=N Wrist=19.8  #SUP: 3
+binaryClass=N Abdomen=92.4  #SUP: 3
+binaryClass=N Weight=177.25  #SUP: 3
+binaryClass=N Wrist=19.5  #SUP: 3
+binaryClass=N Neck=38.3  #SUP: 3
+binaryClass=N Forearm=29.5  #SUP: 3
+binaryClass=N Neck=40.8  #SUP: 6
+binaryClass=N Forearm=31.2  #SUP: 3
+binaryClass=N Thigh=57.1  #SUP: 3
+binaryClass=N Weight=168.25  #SUP: 3
+binaryClass=N Forearm=30.4  #SUP: 3
+binaryClass=N Biceps=33.7  #SUP: 3
+binaryClass=N Knee=41.3  #SUP: 3
+binaryClass=N Knee=40.3  #SUP: 3
+Forearm=27.7 Wrist=17.7  #SUP: 3
+Wrist=17.7 Age=35  #SUP: 3
+Wrist=17.7 Ankle=22.5  #SUP: 3
+Wrist=18.8 Height=72.5  #SUP: 3
+Wrist=18.8 Height=69.5  #SUP: 3
+Ankle=22.9 Wrist=18.5  #SUP: 4
+Wrist=18.5 Ankle=22.5  #SUP: 3
+Wrist=18.5 Age=42  #SUP: 3
+Height=69.5 Age=35  #SUP: 3
+Age=35 Chest=99.1  #SUP: 3
+Wrist=17.3 Age=40  #SUP: 3
+Height=67.5 Wrist=18.3  #SUP: 3
+Abdomen=88.7 Thigh=57.5  #SUP: 3
+Thigh=58.9 Age=44  #SUP: 3
+Ankle=22.6 Age=40  #SUP: 3
+Wrist=17.4 Age=43  #SUP: 3
+Ankle=22 Height=69.25  #SUP: 4
+Knee=37.3 binaryClass=P Wrist=18.2  #SUP: 3
+binaryClass=P Height=72.25 Wrist=18.2  #SUP: 3
+binaryClass=P Wrist=16.9 Knee=34.8  #SUP: 3
+binaryClass=P Wrist=17.6 Ankle=22.6  #SUP: 3
+binaryClass=P Height=67.5 Forearm=27  #SUP: 3
+binaryClass=P Biceps=30.6 Chest=94  #SUP: 3
+binaryClass=N Height=69.75 Neck=40.9  #SUP: 3
+binaryClass=N Hip=98.3 Knee=38.4  #SUP: 3
+binaryClass=N Ankle=22 Height=69.25  #SUP: 3
